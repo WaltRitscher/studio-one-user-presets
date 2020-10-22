@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Electric Sunburst 1: Patterns">
+	<Attributes pitch="36" name="Open"/>
+	<Attributes pitch="37" name="Muted"/>
+	<Attributes pitch="38" name="Flageolet"/>
+	<Attributes pitch="39" name="Tremolo"/>
+	<Attributes pitch="40" name="Pattern: Reverse Score A"/>
+	<Attributes pitch="41" name="Pattern: Reverse Score B"/>
+	<Attributes pitch="42" name="Pattern: Reverse Score C"/>
+	<Attributes pitch="43" name="Pattern: Reverse Score D"/>
+	<Attributes pitch="44" name="Ending: Long"/>
+	<Attributes pitch="45" name="Ending: Slide Down"/>
+	<Attributes pitch="46" name="Ending: Mute Strings"/>
+	<Attributes pitch="47" name="Slide down"/>
+</Music.KeySwitchList>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="Tuned Gong C"/>
+<Music.PitchName pitch="25" name="Tuned Gong C#"/>
+<Music.PitchName pitch="26" name="Tuned Gong D"/>
+<Music.PitchName pitch="27" name="Tuned Gong D#"/>
+<Music.PitchName pitch="28" name="Tuned Gong E"/>
+<Music.PitchName pitch="29" name="Tuned Gong F"/>
+<Music.PitchName pitch="30" name="Tuned Gong F#"/>
+<Music.PitchName pitch="31" name="Tuned Gong G"/>
+<Music.PitchName pitch="32" name="Tuned Gong G#"/>
+<Music.PitchName pitch="33" name="Tuned Gong A"/>
+<Music.PitchName pitch="34" name="Tuned Gong A#"/>
+<Music.PitchName pitch="35" name="Tuned Gong B"/>
+<Music.PitchName pitch="36" name="Taiko 1 Open"/>
+<Music.PitchName pitch="37" name="Taiko 1 Shell"/>
+<Music.PitchName pitch="38" name="Taiko 1 Rim"/>
+<Music.PitchName pitch="39" name="Taiko 1 Shell Flam"/>
+<Music.PitchName pitch="40" name="Taiko 1 Flam Rim"/>
+<Music.PitchName pitch="41" name="Taiko 1 Rimshot"/>
+<Music.PitchName pitch="42" name="Taiko 1 Shell Flam"/>
+<Music.PitchName pitch="43" name="Taiko 2 Open"/>
+<Music.PitchName pitch="44" name="Taiko 2 Shell"/>
+<Music.PitchName pitch="45" name="Taiko 2 Rim"/>
+<Music.PitchName pitch="46" name="Taiko 2 Shell Flam"/>
+<Music.PitchName pitch="47" name="Taiko 2 Stick Click"/>
+<Music.PitchName pitch="48" name="Taiko 3 Open"/>
+<Music.PitchName pitch="49" name="Taiko 3 Shell Rim"/>
+<Music.PitchName pitch="50" name="Taiko 3 Rim"/>
+<Music.PitchName pitch="51" name="Taiko 3 Shell Rim 2"/>
+<Music.PitchName pitch="52" name="Taiko 3 Open 2"/>
+<Music.PitchName pitch="53" name="Taiko 3 Rim 2"/>
+<Music.PitchName pitch="54" name="Taiko 3 Rim Shell Flam"/>
+<Music.PitchName pitch="55" name="Lion Drum 1 Open"/>
+<Music.PitchName pitch="56" name="Lion Drum 1 Shell"/>
+<Music.PitchName pitch="57" name="Lion Drum 1 Open Flam"/>
+<Music.PitchName pitch="58" name="Lion Drum 1 Shell Flam"/>
+<Music.PitchName pitch="59" name="Lion Drum 2 Open"/>
+<Music.PitchName pitch="60" name="Lion Drum 2 Open Flam"/>
+<Music.PitchName pitch="61" name="Lion Drum 2 Shell"/>
+<Music.PitchName pitch="62" name="Lion Drum 2 Shell Flam"/>
+<Music.PitchName pitch="63" name="Kendong Closed"/>
+<Music.PitchName pitch="64" name="Kendong Open"/>
+<Music.PitchName pitch="65" name="Kendong Edge"/>
+<Music.PitchName pitch="66" name="Kendong Slap"/>
+<Music.PitchName pitch="67" name="Kendong Stick"/>
+<Music.PitchName pitch="68" name="Sm Kendong Closed"/>
+<Music.PitchName pitch="69" name="Sm Kendong Open"/>
+<Music.PitchName pitch="70" name="Sm Kendong Slap"/>
+<Music.PitchName pitch="71" name="Sm Kendong Edge"/>
+<Music.PitchName pitch="72" name="Sm Kendong Stick"/>
+<Music.PitchName pitch="73" name="Bajiaogu Closed"/>
+<Music.PitchName pitch="74" name="Bajiaogu Open"/>
+<Music.PitchName pitch="75" name="Bajiaogu Roll"/>
+<Music.PitchName pitch="76" name="Bajiaogu Edge"/>
+<Music.PitchName pitch="77" name="Large Gong Open"/>
+<Music.PitchName pitch="78" name="Large Gong Swell Long"/>
+<Music.PitchName pitch="79" name="Large Gong Stick"/>
+<Music.PitchName pitch="80" name="Large Gong Swell Short"/>
+<Music.PitchName pitch="81" name="Large Gong Bow"/>
+<Music.PitchName pitch="82" name="Large Gong Ball"/>
+<Music.PitchName pitch="83" name="Large Gong 2 Open"/>
+<Music.PitchName pitch="84" name="Large Gong 2 Stick"/>
+<Music.PitchName pitch="85" name="Large Gong 2 Swell Long"/>
+<Music.PitchName pitch="86" name="Large Gong 2 Rod"/>
+<Music.PitchName pitch="87" name="Large Gong 2 Jclaw"/>
+<Music.PitchName pitch="88" name="Large Gong 2 Scrape"/>
+<Music.PitchName pitch="89" name="Small Gong Open"/>
+<Music.PitchName pitch="90" name="Small Gong Stick Close"/>
+<Music.PitchName pitch="91" name="Small Gong Stick"/>
+<Music.PitchName pitch="92" name="Small Gong Ball"/>
+<Music.PitchName pitch="93" name="Small Gong Bow"/>
+<Music.PitchName pitch="94" name="Chinese Cymbal"/>
+<Music.PitchName pitch="95" name="Chinese March Cymbal Open"/>
+<Music.PitchName pitch="96" name="Chinese March Cymbal Closed"/>
+<Music.PitchName pitch="97" name="Water Gong Up"/>
+<Music.PitchName pitch="98" name="Water Gong Down"/>
+<Music.PitchName pitch="99" name="Water Gong Hi Tremolo"/>
+<Music.PitchName pitch="100" name="Water Gong Hi Down"/>
+<Music.PitchName pitch="101" name="VietGong Open"/>
+<Music.PitchName pitch="102" name="VietGong Mute"/>
+<Music.PitchName pitch="103" name="Indo Gong 1 Open"/>
+<Music.PitchName pitch="104" name="Indo Gong Stick"/>
+<Music.PitchName pitch="105" name="Indo Gong 2 Open"/>
+<Music.PitchName pitch="106" name="Temple Bowl Low"/>
+<Music.PitchName pitch="107" name="Temple Bowl Mid"/>
+<Music.PitchName pitch="108" name="Temple Bowl Hi"/>
+<Music.PitchName pitch="109" name="---"/>
+<Music.PitchName pitch="110" name="---"/>
+<Music.PitchName pitch="111" name="---"/>
+<Music.PitchName pitch="112" name="---"/>
+<Music.PitchName pitch="113" name="---"/>
+<Music.PitchName pitch="114" name="---"/>
+<Music.PitchName pitch="115" name="---"/>
+<Music.PitchName pitch="116" name="---"/>
+<Music.PitchName pitch="117" name="---"/>
+<Music.PitchName pitch="118" name="---"/>
+<Music.PitchName pitch="119" name="---"/>
+<Music.PitchName pitch="120" name="---"/>
+<Music.PitchName pitch="121" name="---"/>
+<Music.PitchName pitch="122" name="---"/>
+<Music.PitchName pitch="123" name="---"/>
+<Music.PitchName pitch="124" name="---"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

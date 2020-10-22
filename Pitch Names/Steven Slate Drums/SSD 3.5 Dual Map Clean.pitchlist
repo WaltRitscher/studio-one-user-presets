@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="22" name="Hi-Hat CLosed Shank [KB, VD}"/>
+<Music.PitchName pitch="26" name="Hi-Hat Semi Closed - Open Shank [VD]"/>
+<Music.PitchName pitch="27" name="X-Slot Cymbals Bow (A) [KB, VD]"/>
+<Music.PitchName pitch="28" name="X-Slot Cymbals Edge (A) [KB, VD]"/>
+<Music.PitchName pitch="29" name="X-Slot Cymbals Bow (B) [KB, VD]"/>
+<Music.PitchName pitch="30" name="X-Slot Cymbals Edge (B) [KB, VD]"/>
+<Music.PitchName pitch="31" name="X-Slot Cymbals Bow (C) [KB, VD]"/>
+<Music.PitchName pitch="32" name="X-Slot Cymbals Edge (C) [KB, VD]"/>
+<Music.PitchName pitch="33" name="X-Slot Cymbals Bow (D) [KB, VD]"/>
+<Music.PitchName pitch="34" name="X-Slot Cymbals Edge (D) [KB, VD]"/>
+<Music.PitchName pitch="35" name="Kick [KB, VD]"/>
+<Music.PitchName pitch="36" name="Kick [KB, VD]"/>
+<Music.PitchName pitch="37" name="Snare Side-Stick [KB, VD]"/>
+<Music.PitchName pitch="38" name="Snare (Head + Rim-Shot) [KB, VD]"/>
+<Music.PitchName pitch="39" name="Snare Rolls [KB], Tom 4 Rim [VD]"/>
+<Music.PitchName pitch="40" name="Snare Rim-Shot [KB, VD]"/>
+<Music.PitchName pitch="41" name="Tom 4 [KB, VD]"/>
+<Music.PitchName pitch="42" name="Hi-Hat Closed Tip [KB, VD]"/>
+<Music.PitchName pitch="43" name="Tom 3 Head [KB, VD]"/>
+<Music.PitchName pitch="44" name="Hi-Hat Clamp [KB, VD]"/>
+<Music.PitchName pitch="45" name="Tom 2 Head [KB, VD]"/>
+<Music.PitchName pitch="46" name="Hi-Hat Semi Closed - Open Tip [VD]"/>
+<Music.PitchName pitch="47" name="Tom 2 Rim [KB, VD]"/>
+<Music.PitchName pitch="48" name="Tom 1 Head [KB, VD]"/>
+<Music.PitchName pitch="49" name="Crash Bow (A) [KB]"/>
+<Music.PitchName pitch="50" name="Tom 1 Rim [KB, VD]"/>
+<Music.PitchName pitch="51" name="Ride Tip [KB]"/>
+<Music.PitchName pitch="52" name="Crash Edge (B) [KB, VD]"/>
+<Music.PitchName pitch="53" name="Ride Bell [KB, VD]"/>
+<Music.PitchName pitch="54" name="Crash Choke (A) [KB]"/>
+<Music.PitchName pitch="55" name="Crash Edge (A) [KB, VD]"/>
+<Music.PitchName pitch="56" name="Crash Choke (B) [KB]"/>
+<Music.PitchName pitch="57" name="Crash Bow (B) [KB, VD]"/>
+<Music.PitchName pitch="58" name="Tom 3 Rim [KB, VD]"/>
+<Music.PitchName pitch="59" name="Ride Edge [KB, VD]"/>
+<Music.PitchName pitch="60" name="Hi-Hat Tip [KDC]"/>
+<Music.PitchName pitch="61" name="Hi-Hat Closed Tip [KB}"/>
+<Music.PitchName pitch="62" name="Hi-Hat Semi Closed Tip [KB}"/>
+<Music.PitchName pitch="63" name="Hi-Hat Closed Tip [KB}"/>
+<Music.PitchName pitch="64" name="Hi-Hat Semi Open Tip [KB}"/>
+<Music.PitchName pitch="65" name="Hi-Hat Open Tip [KB]"/>
+<Music.PitchName pitch="66" name="Hi-Hat Clamp [KB]"/>
+<Music.PitchName pitch="67" name="Hi-Hat Shank [KDC]"/>
+<Music.PitchName pitch="68" name="Hi-Hat Closed Shank [KB]"/>
+<Music.PitchName pitch="69" name="Hi-Hat Semi Closed Shank [KB]"/>
+<Music.PitchName pitch="70" name="Hi-Hat Closed Shank [KB]"/>
+<Music.PitchName pitch="71" name="Hi-Hat Semi Open Shank [KB]"/>
+<Music.PitchName pitch="72" name="Hi-Hat Open Shank [KB]"/>
+<Music.PitchName pitch="73" name="Ride Tip (X) [KB]"/>
+<Music.PitchName pitch="74" name="Ride Tip (X) [KB]"/>
+<Music.PitchName pitch="75" name="Ride Bell (X) [KB]"/>
+<Music.PitchName pitch="76" name="Ride Bell (X) [KB]"/>
+<Music.PitchName pitch="77" name="Ride Edge (X) [KB]"/>
+</Music.PitchNameList>

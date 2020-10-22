@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="FonTomFrom 5ft Bass"/>
+<Music.PitchName pitch="25" name="FonTomFrom 5ft Hand Closed"/>
+<Music.PitchName pitch="26" name="FonTomFrom 5ft Hand Open"/>
+<Music.PitchName pitch="27" name="FonTomFrom 5ft Shell"/>
+<Music.PitchName pitch="28" name="FonTomFrom 5ft Stick"/>
+<Music.PitchName pitch="29" name="FonTomFrom 5ft Stick Closed"/>
+<Music.PitchName pitch="30" name="FonTomFrom 5ft Stick Mute"/>
+<Music.PitchName pitch="31" name="Brekete Open"/>
+<Music.PitchName pitch="32" name="Brekete Closed"/>
+<Music.PitchName pitch="33" name="Djun Djun Open"/>
+<Music.PitchName pitch="34" name="Djun Djun Stick Edge"/>
+<Music.PitchName pitch="35" name="Djun Djun Open Closed"/>
+<Music.PitchName pitch="36" name="Ceremony Drum Bass"/>
+<Music.PitchName pitch="37" name="Ceremony Drum Stick Open"/>
+<Music.PitchName pitch="38" name="Ceremony Drum Hand Open"/>
+<Music.PitchName pitch="39" name="Ceremony Drum Shell Stick"/>
+<Music.PitchName pitch="40" name="Ceremony Drum Stick Closed"/>
+<Music.PitchName pitch="41" name="Ceremony Drum Stick Mute"/>
+<Music.PitchName pitch="42" name="Djembe Bass"/>
+<Music.PitchName pitch="43" name="Djembe Slap Left"/>
+<Music.PitchName pitch="44" name="Djembe Open Left"/>
+<Music.PitchName pitch="45" name="Djembe Slap Right"/>
+<Music.PitchName pitch="46" name="Djembe Open Right"/>
+<Music.PitchName pitch="47" name="Djembe Grace"/>
+<Music.PitchName pitch="48" name="Djembe Closed"/>
+<Music.PitchName pitch="49" name="Djembe Ksing Bass"/>
+<Music.PitchName pitch="50" name="Djembe Ksing Slap Closed"/>
+<Music.PitchName pitch="51" name="Djembe Ksing Open Left"/>
+<Music.PitchName pitch="52" name="Djembe Ksing Open Right"/>
+<Music.PitchName pitch="53" name="Djembe Ksing Slap Left"/>
+<Music.PitchName pitch="54" name="Djembe Ksing Grace"/>
+<Music.PitchName pitch="55" name="Djembe Ksing Slap Right"/>
+<Music.PitchName pitch="56" name="Shekere Bass"/>
+<Music.PitchName pitch="57" name="Shekere Shake"/>
+<Music.PitchName pitch="58" name="Kroboto Hand Open"/>
+<Music.PitchName pitch="59" name="Kroboto Stick Open"/>
+<Music.PitchName pitch="60" name="Kroboto Shell"/>
+<Music.PitchName pitch="61" name="Kroboto Slap Closed"/>
+<Music.PitchName pitch="62" name="Kroboto Stick Closed"/>
+<Music.PitchName pitch="63" name="Kroboto Stick Mute"/>
+<Music.PitchName pitch="64" name="Talking Drum Lo"/>
+<Music.PitchName pitch="65" name="Talking Drum Bend Up"/>
+<Music.PitchName pitch="66" name="Talking Drum Med"/>
+<Music.PitchName pitch="67" name="Talking Drum Bend Down"/>
+<Music.PitchName pitch="68" name="Talking Drum Hi"/>
+<Music.PitchName pitch="69" name="Talking Drum Bend Up + Down"/>
+<Music.PitchName pitch="70" name="Boba Mute Bass"/>
+<Music.PitchName pitch="71" name="Boba Hand Open"/>
+<Music.PitchName pitch="72" name="Boba Slap Closed"/>
+<Music.PitchName pitch="73" name="Boba Slap Open"/>
+<Music.PitchName pitch="74" name="Boba Shell"/>
+<Music.PitchName pitch="75" name="Boba Stick Open Lo"/>
+<Music.PitchName pitch="76" name="Boba Stick Open Hi"/>
+<Music.PitchName pitch="77" name="Boba Stick Closed"/>
+<Music.PitchName pitch="78" name="Boba Mute Open"/>
+<Music.PitchName pitch="79" name="Boba Stick Mute"/>
+<Music.PitchName pitch="80" name="Bata Lo Open"/>
+<Music.PitchName pitch="81" name="Bata Lo Closed"/>
+<Music.PitchName pitch="82" name="Bata Lo Slap"/>
+<Music.PitchName pitch="83" name="Bata Hi Open"/>
+<Music.PitchName pitch="84" name="Bata Hi Closed"/>
+<Music.PitchName pitch="85" name="Bata Hi Slap"/>
+<Music.PitchName pitch="86" name="Kidi Mute Bass"/>
+<Music.PitchName pitch="87" name="Kidi Hand Open"/>
+<Music.PitchName pitch="88" name="Kidi Stick Open Lo"/>
+<Music.PitchName pitch="89" name="Kidi Mute Open"/>
+<Music.PitchName pitch="90" name="Kidi Stick Open Hi"/>
+<Music.PitchName pitch="91" name="Kidi Shell"/>
+<Music.PitchName pitch="92" name="Kidi Slap Closed"/>
+<Music.PitchName pitch="93" name="Kidi Stick Closed"/>
+<Music.PitchName pitch="94" name="Kidi Stick Edge"/>
+<Music.PitchName pitch="95" name="Sabir Hand Open"/>
+<Music.PitchName pitch="96" name="Sabir Stick Closed"/>
+<Music.PitchName pitch="97" name="Sabir Slap Open"/>
+<Music.PitchName pitch="98" name="Sabir Edge"/>
+<Music.PitchName pitch="99" name="Sabir Stick Open"/>
+<Music.PitchName pitch="100" name="Sabir Open Closed-Hand"/>
+<Music.PitchName pitch="101" name="Sabir Open Slap"/>
+<Music.PitchName pitch="102" name="Sabir Flam Open"/>
+<Music.PitchName pitch="103" name="Sabir Roll"/>
+<Music.PitchName pitch="104" name="Sakara Large Open"/>
+<Music.PitchName pitch="105" name="Sakara Large Edge Closed"/>
+<Music.PitchName pitch="106" name="Sakara Large Closed"/>
+<Music.PitchName pitch="107" name="Sakara Large Edge Open"/>
+<Music.PitchName pitch="108" name="Sakara Large Rough"/>
+<Music.PitchName pitch="109" name="Sakara Small Open"/>
+<Music.PitchName pitch="110" name="Sakara Small Closed"/>
+<Music.PitchName pitch="111" name="Sakara Small Edge Closed"/>
+<Music.PitchName pitch="112" name="Sakara Small Rough"/>
+<Music.PitchName pitch="113" name="---"/>
+<Music.PitchName pitch="114" name="---"/>
+<Music.PitchName pitch="115" name="---"/>
+<Music.PitchName pitch="116" name="---"/>
+<Music.PitchName pitch="117" name="---"/>
+<Music.PitchName pitch="118" name="---"/>
+<Music.PitchName pitch="119" name="---"/>
+<Music.PitchName pitch="120" name="---"/>
+<Music.PitchName pitch="121" name="---"/>
+<Music.PitchName pitch="122" name="---"/>
+<Music.PitchName pitch="123" name="---"/>
+<Music.PitchName pitch="124" name="---"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

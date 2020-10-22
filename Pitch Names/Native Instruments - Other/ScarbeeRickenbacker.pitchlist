@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="34" name="Pup Clap"/>
+	<Music.PitchName pitch="33" name="A"/>
+	<Music.PitchName pitch="32" name="Buzz Trill"/>
+	<Music.PitchName pitch="31" name="G"/>
+	<Music.PitchName pitch="30" name="Ho / Po"/>
+	<Music.PitchName pitch="28" name="E"/>
+	<Music.PitchName pitch="27" name="Chord"/>
+	<Music.PitchName pitch="26" name="D"/>
+	<Music.PitchName pitch="25" name="Up"/>
+	<Music.PitchName pitch="24" name="Down"/>
+	<Music.PitchName pitch="23" name="Reset"/>
+	<Music.PitchName pitch="22" name="Mute"/>
+	<Music.PitchName pitch="21" name="Sustain"/>
+</Music.PitchNameList>

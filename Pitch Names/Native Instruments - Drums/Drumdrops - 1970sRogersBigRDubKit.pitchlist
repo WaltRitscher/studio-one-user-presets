@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is a pitch name preset file for PreSonus Studio One -->
+<!--                                                          -->
+<!-- Preset : Drumdrops 1970s Rogers Big R Dub Kit            -->
+<!-- Version: 1.0                                             -->
+<!-- Date   : 2014-02-22                                      -->
+<!--                                                          -->
+<!-- Plug-in: Kontakt                                         -->
+<!-- Vendor : Native Instruments / Drumdrops                  -->
+<!--                                                          -->
+<!-- Author : Kahlbert                                        -->
+<!--          (pitchlist template by sunmachine)              -->
+<!--                                                          -->
+<!-- Info   : Default Map                                     -->
+
+
+<Music.PitchNameList>
+
+<!-- C8 .. G8 -->
+<!--    G  -->  <Music.PitchName pitch="127" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="126" name=""/>
+<!--    F  -->  <Music.PitchName pitch="125" name=""/>
+<!--    E  -->  <Music.PitchName pitch="124" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="123" name=""/>
+<!--    D  -->  <Music.PitchName pitch="122" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="121" name=""/>
+<!--    C  -->  <Music.PitchName pitch="120" name="Tama TS-204 Sweep Long"/>
+
+<!-- C7 .. B7 -->
+<!--    B  -->  <Music.PitchName pitch="119" name="Tama TS-204 Sweep Medium"/>
+<!-- A#    -->  <Music.PitchName pitch="118" name="Tama TS-204 Sweep Short"/>
+<!--    A  -->  <Music.PitchName pitch="117" name="Boss PC-2 FX 8"/>
+<!-- G#    -->  <Music.PitchName pitch="116" name="Boss PC-2 FX 7"/>
+<!--    G  -->  <Music.PitchName pitch="115" name="Boss PC-2 FX 6"/>
+<!-- F#    -->  <Music.PitchName pitch="114" name="Boss PC-2 FX 5"/>
+<!--    F  -->  <Music.PitchName pitch="113" name="Boss PC-2 FX 4"/>
+<!--    E  -->  <Music.PitchName pitch="112" name="Boss PC-2 FX 3"/>
+<!-- D#    -->  <Music.PitchName pitch="111" name="Boss PC-2 FX 2"/>
+<!--    D  -->  <Music.PitchName pitch="110" name="Boss PC-2 FX 1"/>
+<!-- C#    -->  <Music.PitchName pitch="109" name=""/>
+<!--    C  -->  <Music.PitchName pitch="108" name="Boss PC-2 Sweep Up Long"/>
+
+<!-- C6 .. B6 -->
+<!--    B  -->  <Music.PitchName pitch="107" name="Boss PC-2 Sweep Up Medium"/>
+<!-- A#    -->  <Music.PitchName pitch="106" name="Boss PC-2 Sweep Up Short"/>
+<!--    A  -->  <Music.PitchName pitch="105" name="Boss PC-2 Sweep Down Long"/>
+<!-- G#    -->  <Music.PitchName pitch="104" name="Boss PC-2 Sweep Down Medium"/>
+<!--    G  -->  <Music.PitchName pitch="103" name="Boss PC-2 Sweep Down Short"/>
+<!-- F#    -->  <Music.PitchName pitch="102" name=""/>
+<!--    F  -->  <Music.PitchName pitch="101" name=""/>
+<!--    E  -->  <Music.PitchName pitch="100" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="99" name=""/>
+<!--    D  -->  <Music.PitchName pitch="98" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="97" name=""/>
+<!--    C  -->  <Music.PitchName pitch="96" name=""/>
+
+<!-- C5 .. B5 -->
+<!--    B  -->  <Music.PitchName pitch="95" name=""/>
+<!-- A#    -->  <Music.PitchName pitch="94" name=""/>
+<!--    A  -->  <Music.PitchName pitch="93" name=""/>
+<!-- G#    -->  <Music.PitchName pitch="92" name=""/>
+<!--    G  -->  <Music.PitchName pitch="91" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="90" name=""/>
+<!--    F  -->  <Music.PitchName pitch="89" name=""/>
+<!--    E  -->  <Music.PitchName pitch="88" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="87" name="HH Edge Open Full"/>
+<!--    D  -->  <Music.PitchName pitch="86" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="85" name="HH Edge Open Three Quarters"/>
+<!--    C  -->  <Music.PitchName pitch="84" name=""/>
+
+<!-- C4 .. B4 -->
+<!--    B  -->  <Music.PitchName pitch="83" name=""/>
+<!-- A#    -->  <Music.PitchName pitch="82" name="HH Edge Open Half"/>
+<!--    A  -->  <Music.PitchName pitch="81" name=""/>
+<!-- G#    -->  <Music.PitchName pitch="80" name="HH Edge Open Quarter"/>
+<!--    G  -->  <Music.PitchName pitch="79" name="Acrolite Snare Rimshot"/>
+<!-- F#    -->  <Music.PitchName pitch="78" name="HH Edge Closed"/>
+<!--    F  -->  <Music.PitchName pitch="77" name="Acrolite Snare Edge"/>
+<!--    E  -->  <Music.PitchName pitch="76" name="Acrolite Snare Centre"/>
+<!-- D#    -->  <Music.PitchName pitch="75" name="HH Edge Fully Closed"/>
+<!--    D  -->  <Music.PitchName pitch="74" name="Acrolite Sidestick"/>
+<!-- C#    -->  <Music.PitchName pitch="73" name=""/>
+<!--    C  -->  <Music.PitchName pitch="72" name="HH Centre Open Three Quarters"/>
+
+<!-- C3 .. B3 -->
+<!--    B  -->  <Music.PitchName pitch="71" name="HH Centre Open Half"/>
+<!-- A#    -->  <Music.PitchName pitch="70" name="HH Centre Open Quarter"/>
+<!--    A  -->  <Music.PitchName pitch="69" name="HH Pedal Open"/>
+<!-- G#    -->  <Music.PitchName pitch="68" name="HH Centre Closed"/>
+<!--    G  -->  <Music.PitchName pitch="67" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="66" name="Timbale Edge"/>
+<!--    F  -->  <Music.PitchName pitch="65" name="Timbale Centre"/>
+<!--    E  -->  <Music.PitchName pitch="64" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="63" name=""/>
+<!--    D  -->  <Music.PitchName pitch="62" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="61" name="Lo Bongo"/>
+<!--    C  -->  <Music.PitchName pitch="60" name="Hi Bongo"/>
+
+<!-- C2 .. B2 -->
+<!--    B  -->  <Music.PitchName pitch="59" name=""/>
+<!-- A#    -->  <Music.PitchName pitch="58" name=""/>
+<!--    A  -->  <Music.PitchName pitch="57" name=""/>
+<!-- G#    -->  <Music.PitchName pitch="56" name=""/>
+<!--    G  -->  <Music.PitchName pitch="55" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="54" name=""/>
+<!--    F  -->  <Music.PitchName pitch="53" name=""/>
+<!--    E  -->  <Music.PitchName pitch="52" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="51" name=""/>
+<!--    D  -->  <Music.PitchName pitch="50" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="49" name="Custom A Crash Edge"/>
+<!--    C  -->  <Music.PitchName pitch="48" name="Custom A Crash Centre"/>
+
+<!-- C1 .. B1 -->  
+<!--    B  -->  <Music.PitchName pitch="47" name="Hi Rack Tom Centre"/>
+<!-- A#    -->  <Music.PitchName pitch="46" name="HH Centre Open Full"/>
+<!--    A  -->  <Music.PitchName pitch="45" name="Lo Rack Tom Centre"/>
+<!-- G#    -->  <Music.PitchName pitch="44" name="HH Pedal Shut"/>
+<!--    G  -->  <Music.PitchName pitch="43" name="Floor Tom Centre"/>
+<!-- F#    -->  <Music.PitchName pitch="42" name="HH Centre Fully Closed"/>
+<!--    F  -->  <Music.PitchName pitch="41" name=""/>
+<!--    E  -->  <Music.PitchName pitch="40" name="Black Magic Snare Edge"/>
+<!-- D#    -->  <Music.PitchName pitch="39" name="Black Magic Snare Rimshot"/>
+<!--    D  -->  <Music.PitchName pitch="38" name="Black Magic Snare Centre"/>
+<!-- C#    -->  <Music.PitchName pitch="37" name="Black Magic Sidestick"/>
+<!--    C  -->  <Music.PitchName pitch="36" name="Kick Felt Beater"/>
+
+<!-- C0 .. B0 -->
+<!--    B  -->  <Music.PitchName pitch="35" name="Kick Felt Beater Damped"/>
+<!-- A#    -->  <Music.PitchName pitch="34" name=""/>
+<!--    A  -->  <Music.PitchName pitch="33" name=""/>
+<!-- G#    -->  <Music.PitchName pitch="32" name=""/>
+<!--    G  -->  <Music.PitchName pitch="31" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="30" name=""/>
+<!--    F  -->  <Music.PitchName pitch="29" name=""/>
+<!--    E  -->  <Music.PitchName pitch="28" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="27" name=""/>
+<!--    D  -->  <Music.PitchName pitch="26" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="25" name=""/>
+<!--    C  -->  <Music.PitchName pitch="24" name=""/>
+
+<!-- C-1 .. B-1 -->
+<!--    B  -->  <Music.PitchName pitch="23" name=""/>
+<!-- A#    -->  <Music.PitchName pitch="22" name=""/>
+<!--    A  -->  <Music.PitchName pitch="21" name=""/>
+<!-- G#    -->  <Music.PitchName pitch="20" name=""/>
+<!--    G  -->  <Music.PitchName pitch="19" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="18" name=""/>
+<!--    F  -->  <Music.PitchName pitch="17" name=""/>
+<!--    E  -->  <Music.PitchName pitch="16" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="15" name=""/>
+<!--    D  -->  <Music.PitchName pitch="14" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="13" name=""/>
+<!--    C  -->  <Music.PitchName pitch="12" name=""/>
+
+<!-- C-2 .. B-2 -->
+<!--    B  -->  <Music.PitchName pitch="11" name=""/>
+<!-- A#    -->  <Music.PitchName pitch="10" name=""/>
+<!--    A  -->  <Music.PitchName pitch="9" name=""/>
+<!-- G#    -->  <Music.PitchName pitch="8" name=""/>
+<!--    G  -->  <Music.PitchName pitch="7" name=""/>
+<!-- F#    -->  <Music.PitchName pitch="6" name=""/>
+<!--    F  -->  <Music.PitchName pitch="5" name=""/>
+<!--    E  -->  <Music.PitchName pitch="4" name=""/>
+<!-- D#    -->  <Music.PitchName pitch="3" name=""/>
+<!--    D  -->  <Music.PitchName pitch="2" name=""/>
+<!-- C#    -->  <Music.PitchName pitch="1" name=""/>
+<!--    C  -->  <Music.PitchName pitch="0" name=""/>
+
+</Music.PitchNameList>

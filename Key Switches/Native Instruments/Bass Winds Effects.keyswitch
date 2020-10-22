@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Bass Winds Effects">
+	<Attributes pitch="36" name="Cluster Diss. Sfz"/>
+	<Attributes pitch="37" name="Cluster Sfz"/>
+	<Attributes pitch="38" name="Cluster Stac. bcl"/>
+	<Attributes pitch="39" name="Cluster Stac. cbsn"/>
+	<Attributes pitch="40" name="Cluster Staccato"/>
+	<Attributes pitch="41" name="Cluster Sustain"/>
+	<Attributes pitch="42" name="Flourish Dissonant"/>
+	<Attributes pitch="43" name="Flourish Major Up"/>
+</Music.KeySwitchList>

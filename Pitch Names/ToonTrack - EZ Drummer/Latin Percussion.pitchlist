@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="3" name="Maracas Off Beat"/>
+<Music.PitchName pitch="4" name="Maracas On Beat"/>
+<Music.PitchName pitch="5" name="Maracas Crescendo"/>
+<Music.PitchName pitch="6" name="Caxixi Off Beat"/>
+<Music.PitchName pitch="7" name="Caxixi On Beat"/>
+<Music.PitchName pitch="8" name="Caxixi Special"/>
+<Music.PitchName pitch="9" name="Caxixi Beat"/>
+<Music.PitchName pitch="10" name="Cajon Basstone R"/>
+<Music.PitchName pitch="11" name="Cajon Ghost Left"/>
+<Music.PitchName pitch="12" name="Cajon Ghost Right"/>
+<Music.PitchName pitch="13" name="Cajon Sidestick L"/>
+<Music.PitchName pitch="14" name="Cajon Sidestick R"/>
+<Music.PitchName pitch="15" name="Timb Hi Ruff"/>
+<Music.PitchName pitch="16" name="Timb Hi Flam"/>
+<Music.PitchName pitch="17" name="Timb Hi Sidestroke"/>
+<Music.PitchName pitch="18" name="Timb Hi Rim Shot"/>
+<Music.PitchName pitch="19" name="Timb Hi Open Right"/>
+<Music.PitchName pitch="20" name="Timb Lo Rim Shot"/>
+<Music.PitchName pitch="21" name="Timb Lo Open Right"/>
+<Music.PitchName pitch="22" name="Timb Lo Flam"/>
+<Music.PitchName pitch="23" name="Timb Lo Sidestroke"/>
+<Music.PitchName pitch="24" name="Tbourin Crescendo"/>
+<Music.PitchName pitch="25" name="Tbourin Muted"/>
+<Music.PitchName pitch="26" name="Tbourin Off Beat"/>
+<Music.PitchName pitch="27" name="Tbourin On Beat"/>
+<Music.PitchName pitch="28" name="Bongo Open Right"/>
+<Music.PitchName pitch="29" name="Bongo Left Heel"/>
+<Music.PitchName pitch="30" name="Bongo Right Heel"/>
+<Music.PitchName pitch="31" name="Bongo Crescendo"/>
+<Music.PitchName pitch="32" name="Bongo Flam"/>
+<Music.PitchName pitch="33" name="Udu Ghost Left"/>
+<Music.PitchName pitch="34" name="Udu Ghost Right"/>
+<Music.PitchName pitch="35" name="Udu Hi Open"/>
+<Music.PitchName pitch="36" name="Udu Lo Open"/>
+<Music.PitchName pitch="37" name="Udu Slap Cresc"/>
+<Music.PitchName pitch="38" name="Udu Open Cresc"/>
+<Music.PitchName pitch="39" name="Udu Flam"/>
+<Music.PitchName pitch="40" name="Caj Slap Left"/>
+<Music.PitchName pitch="41" name="Caj Slap Right"/>
+<Music.PitchName pitch="42" name="Caj Slap Mid Left"/>
+<Music.PitchName pitch="43" name="Caj Slap Mid Right"/>
+<Music.PitchName pitch="44" name="Big Shk Off Beat"/>
+<Music.PitchName pitch="45" name="Big Shk On Beat"/>
+<Music.PitchName pitch="46" name="Big Shk Shake"/>
+<Music.PitchName pitch="47" name="Wblock Block 3"/>
+<Music.PitchName pitch="48" name="Shaker Off Beat"/>
+<Music.PitchName pitch="49" name="Shaker On Beat"/>
+<Music.PitchName pitch="50" name="Shaker Shake"/>
+<Music.PitchName pitch="51" name="BongoLo Open Right"/>
+<Music.PitchName pitch="52" name="BongoLo Crescendo"/>
+<Music.PitchName pitch="53" name="BongoLo Flam"/>
+<Music.PitchName pitch="54" name="Tbourin Open"/>
+<Music.PitchName pitch="55" name="Splash Crashed"/>
+<Music.PitchName pitch="56" name="Cowbell Struck"/>
+<Music.PitchName pitch="57" name="Cymbal 1 Crashed"/>
+<Music.PitchName pitch="58" name="FX Vibraslap"/>
+<Music.PitchName pitch="59" name="Cymbal 2 Crashed"/>
+<Music.PitchName pitch="60" name="Bongo Hi Open L"/>
+<Music.PitchName pitch="61" name="Bongo Lo Open L"/>
+<Music.PitchName pitch="62" name="Conga Hi Muted L"/>
+<Music.PitchName pitch="63" name="Conga Hi Open L"/>
+<Music.PitchName pitch="64" name="Conga Lo Bass L"/>
+<Music.PitchName pitch="65" name="Timbale Hi Open L"/>
+<Music.PitchName pitch="66" name="Timbale Lo Open L"/>
+<Music.PitchName pitch="67" name="Bells"/>
+<Music.PitchName pitch="68" name="FX Waterfall"/>
+<Music.PitchName pitch="69" name="Afuche Beat"/>
+<Music.PitchName pitch="70" name="Shekere Beat"/>
+<Music.PitchName pitch="71" name="Crickets"/>
+<Music.PitchName pitch="72" name="FX Chimes"/>
+<Music.PitchName pitch="73" name="Guiro Short"/>
+<Music.PitchName pitch="74" name="Guiro Long"/>
+<Music.PitchName pitch="75" name="Cajon Bastone L"/>
+<Music.PitchName pitch="76" name="WBlock Block 1"/>
+<Music.PitchName pitch="77" name="WBlock Block 2"/>
+<Music.PitchName pitch="78" name="Udu Muted Slap"/>
+<Music.PitchName pitch="79" name="Udu Open Slap"/>
+<Music.PitchName pitch="80" name="Triangle Muted"/>
+<Music.PitchName pitch="81" name="Triangle Open"/>
+<Music.PitchName pitch="82" name="Cajon Flam"/>
+<Music.PitchName pitch="83" name="Cajon Crescendo"/>
+<Music.PitchName pitch="84" name="Cajon Brush Hit L"/>
+<Music.PitchName pitch="85" name="Cajon Brush Hit R"/>
+<Music.PitchName pitch="86" name="Cajon Brushed L"/>
+<Music.PitchName pitch="87" name="Cajon Brushed R"/>
+<Music.PitchName pitch="88" name="Conga 1 Slap Cresc"/>
+<Music.PitchName pitch="89" name="Conga 1 Muted Right"/>
+<Music.PitchName pitch="90" name="Conga 1 Open Right"/>
+<Music.PitchName pitch="91" name="Conga 1 Bastone R"/>
+<Music.PitchName pitch="92" name="Conga 1 Open Slap L"/>
+<Music.PitchName pitch="93" name="Conga 1 Open Slap R"/>
+<Music.PitchName pitch="94" name="Conga 1 Clos Slap L"/>
+<Music.PitchName pitch="95" name="Conga 1 Clos Slap R"/>
+<Music.PitchName pitch="96" name="Conga 1 Heel Left"/>
+<Music.PitchName pitch="97" name="Conga 1 Heel Right"/>
+<Music.PitchName pitch="98" name="Conga 1 Open Cresc"/>
+<Music.PitchName pitch="99" name="Conga 1 Open Flam"/>
+<Music.PitchName pitch="100" name="Conga 1 Slap Flam"/>
+<Music.PitchName pitch="101" name="Conga 1 Special"/>
+<Music.PitchName pitch="102" name="Conga 2 Open Left"/>
+<Music.PitchName pitch="103" name="Conga 2 Open Right"/>
+<Music.PitchName pitch="104" name="Conga 2 Muted Left"/>
+<Music.PitchName pitch="105" name="Conga 2 Muted Right"/>
+<Music.PitchName pitch="106" name="Conga 2 Bastone L"/>
+<Music.PitchName pitch="107" name="Conga 2 Bastone R"/>
+<Music.PitchName pitch="108" name="Conga 2 Open Cresc"/>
+<Music.PitchName pitch="109" name="Conga 2 Open Flam"/>
+<Music.PitchName pitch="110" name="Conga 2 Special"/>
+<Music.PitchName pitch="111" name="Conga 2 Open Left Alias"/>
+<Music.PitchName pitch="112" name="Conga 2 Open Right Alias"/>
+<Music.PitchName pitch="113" name="Conga 2 Muted Left Alias"/>
+<Music.PitchName pitch="114" name="Conga 2 Muted Right Alias"/>
+<Music.PitchName pitch="115" name="Conga 2 Bastone L Alias"/>
+<Music.PitchName pitch="116" name="Conga 2 Bastone R Alias"/>
+<Music.PitchName pitch="117" name="Conga 2 Open Cresc Alias"/>
+<Music.PitchName pitch="118" name="Conga 2 Open Flam Alias"/>
+<Music.PitchName pitch="119" name="Crescendo Bells"/>
+<Music.PitchName pitch="120" name="Crescendo Cymbal 1"/>
+<Music.PitchName pitch="121" name="Crescendo Waterfall"/>
+<Music.PitchName pitch="122" name="Crescendo Cymbal 2"/>
+<Music.PitchName pitch="123" name="Crescendo Crickets"/>
+<Music.PitchName pitch="124" name="Shekere Beat"/>
+<Music.PitchName pitch="125" name="Shekere Off Beat"/>
+<Music.PitchName pitch="126" name="Shekere On Beat"/>
+<Music.PitchName pitch="127" name="Shekere Crescendo"/>
+</Music.PitchNameList>

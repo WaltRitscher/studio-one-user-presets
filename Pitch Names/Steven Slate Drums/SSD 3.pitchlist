@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="22" name="HH Closed Shank"/>
+<Music.PitchName pitch="26" name="HH Semi-Closed Open Shank"/>
+<Music.PitchName pitch="33" name="Snare (No crack)"/>
+<Music.PitchName pitch="34" name="Snare (+Crack)"/>
+<Music.PitchName pitch="35" name="Kick"/>
+<Music.PitchName pitch="36" name="Kick"/>
+<Music.PitchName pitch="37" name="Sidestick"/>
+<Music.PitchName pitch="38" name="Snare w/Crack"/>
+<Music.PitchName pitch="39" name="Snare Rolls"/>
+<Music.PitchName pitch="40" name="Snare Rim-Shot"/>
+<Music.PitchName pitch="41" name="Tom 4"/>
+<Music.PitchName pitch="42" name="HH Closed Tip"/>
+<Music.PitchName pitch="43" name="Tom 3"/>
+<Music.PitchName pitch="44" name="HH Clamp"/>
+<Music.PitchName pitch="45" name="Tom 2"/>
+<Music.PitchName pitch="46" name="HH Semi Closed-Open Tip"/>
+<Music.PitchName pitch="47" name="Tom 2"/>
+<Music.PitchName pitch="48" name="Tom 1"/>
+<Music.PitchName pitch="49" name="Crash A"/>
+<Music.PitchName pitch="50" name="Tom 1"/>
+<Music.PitchName pitch="51" name="Ride Tip "/>
+<Music.PitchName pitch="52" name="China"/>
+<Music.PitchName pitch="53" name="Ride Bell"/>
+<Music.PitchName pitch="54" name="Crash A Choke"/>
+<Music.PitchName pitch="55" name="Splash A"/>
+<Music.PitchName pitch="56" name="Splash B"/>
+<Music.PitchName pitch="57" name="Crash B"/>
+<Music.PitchName pitch="58" name="Crash Choke B"/>
+<Music.PitchName pitch="59" name="Ride Edge"/>
+<Music.PitchName pitch="60" name="HH Tip"/>
+<Music.PitchName pitch="61" name="HH Closed Tip"/>
+<Music.PitchName pitch="62" name="HH Semi Closed Tip"/>
+<Music.PitchName pitch="63" name="HH Closed Tip"/>
+<Music.PitchName pitch="64" name="HH Semi Open Tip"/>
+<Music.PitchName pitch="65" name="HH Open Tip"/>
+<Music.PitchName pitch="66" name="HH Clamp"/>
+<Music.PitchName pitch="67" name="HH Shank"/>
+<Music.PitchName pitch="68" name="HH Closed Shank"/>
+<Music.PitchName pitch="69" name="HH Semi Closed Shank"/>
+<Music.PitchName pitch="70" name="HH Closed Shank"/>
+<Music.PitchName pitch="71" name="HH Semi Open Shank"/>
+<Music.PitchName pitch="72" name="HH Open Shank"/>
+<Music.PitchName pitch="73" name="China Small"/>
+<Music.PitchName pitch="74" name="Crash 15"/>
+<Music.PitchName pitch="75" name="China Big"/>
+<Music.PitchName pitch="76" name="Crash 16"/>
+<Music.PitchName pitch="77" name="Crash 17"/>
+<Music.PitchName pitch="78" name="Splash 10"/>
+<Music.PitchName pitch="79" name="Paiste Sig Crash 16"/>
+<Music.PitchName pitch="80" name="Splash 8A"/>
+<Music.PitchName pitch="81" name="Paiste Sig Crash 18"/>
+<Music.PitchName pitch="82" name="Splash 8K"/>
+<Music.PitchName pitch="83" name="Bon Crash 18"/>
+</Music.PitchNameList>

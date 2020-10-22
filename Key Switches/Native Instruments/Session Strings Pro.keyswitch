@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList>
+	<Attributes pitch="12" name="Key Switch 1"/>
+	<Attributes pitch="14" name="Key Switch 2"/>
+	<Attributes pitch="16" name="Key Switch 3"/>
+	<Attributes pitch="17" name="Key Switch 4"/>
+	<Attributes pitch="19" name="Key Switch 5"/>
+	<Attributes pitch="21" name="Key Switch 6"/>
+</Music.KeySwitchList>

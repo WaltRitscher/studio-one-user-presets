@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="Tonbak Bass"/>
+<Music.PitchName pitch="25" name="Tonbak Open Edge"/>
+<Music.PitchName pitch="26" name="Tonbak Edge"/>
+<Music.PitchName pitch="27" name="Tonbak Slap"/>
+<Music.PitchName pitch="28" name="Tonbak Roll"/>
+<Music.PitchName pitch="29" name="Tonbak Grace Edge"/>
+<Music.PitchName pitch="30" name="Lrg Dunbek Jingle"/>
+<Music.PitchName pitch="31" name="Lrg Dunbek Open"/>
+<Music.PitchName pitch="32" name="Lrg Dunbek Edge"/>
+<Music.PitchName pitch="33" name="Lrg Dunbek Slap"/>
+<Music.PitchName pitch="34" name="Lrg Dunbek Roll"/>
+<Music.PitchName pitch="35" name="Lrg Dunbek Grace Edge"/>
+<Music.PitchName pitch="36" name="Tapan Lo"/>
+<Music.PitchName pitch="37" name="Tapan Lo Closed"/>
+<Music.PitchName pitch="38" name="Tapan Hi"/>
+<Music.PitchName pitch="39" name="Tapan Hi Closed"/>
+<Music.PitchName pitch="40" name="Daf Open Soft"/>
+<Music.PitchName pitch="41" name="Daf Bass Hard"/>
+<Music.PitchName pitch="42" name="Daf Grace Bass"/>
+<Music.PitchName pitch="43" name="Daf Slap"/>
+<Music.PitchName pitch="44" name="Daf Grace Slap"/>
+<Music.PitchName pitch="45" name="Daf Edge"/>
+<Music.PitchName pitch="46" name="Daf Ring Grace Edge"/>
+<Music.PitchName pitch="47" name="Tar Bass Hard"/>
+<Music.PitchName pitch="48" name="Tar Bass Closed"/>
+<Music.PitchName pitch="49" name="Tar Slap Closed"/>
+<Music.PitchName pitch="50" name="Tar Edge"/>
+<Music.PitchName pitch="51" name="Tar Roll Edge"/>
+<Music.PitchName pitch="52" name="Tar Slap Open"/>
+<Music.PitchName pitch="53" name="Tar Grace Slap"/>
+<Music.PitchName pitch="54" name="Tar Grace Open"/>
+<Music.PitchName pitch="55" name="Darabuka Open"/>
+<Music.PitchName pitch="56" name="Darabuka Edge"/>
+<Music.PitchName pitch="57" name="Darabuka Slap"/>
+<Music.PitchName pitch="58" name="Darabuka Roll"/>
+<Music.PitchName pitch="59" name="Darabuka Grace Edge"/>
+<Music.PitchName pitch="60" name="Bendhir Open"/>
+<Music.PitchName pitch="61" name="Bendhir Flam Edge"/>
+<Music.PitchName pitch="62" name="Bendhir Closed"/>
+<Music.PitchName pitch="63" name="Bendhir Flam Closed"/>
+<Music.PitchName pitch="64" name="Dunbek Open"/>
+<Music.PitchName pitch="65" name="Dunbek Slap"/>
+<Music.PitchName pitch="66" name="Dunbek Grace Open"/>
+<Music.PitchName pitch="67" name="Dunbek Edge"/>
+<Music.PitchName pitch="68" name="Dunbek Roll"/>
+<Music.PitchName pitch="69" name="Dunbek Grace Edge"/>
+<Music.PitchName pitch="70" name="Dayere Grace Open Bass"/>
+<Music.PitchName pitch="71" name="Dayere Grace Open Edge"/>
+<Music.PitchName pitch="72" name="Dayere Open"/>
+<Music.PitchName pitch="73" name="Dayere Closed Slap"/>
+<Music.PitchName pitch="74" name="Dayere Open Slap"/>
+<Music.PitchName pitch="75" name="Dayere Closed Edge"/>
+<Music.PitchName pitch="76" name="Dayere Edge"/>
+<Music.PitchName pitch="77" name="Dayere Closed Bass"/>
+<Music.PitchName pitch="78" name="Nagereh Rough Lo"/>
+<Music.PitchName pitch="79" name="Nagereh Lo"/>
+<Music.PitchName pitch="80" name="Nagereh Rough Hi"/>
+<Music.PitchName pitch="81" name="Nagereh Hi"/>
+<Music.PitchName pitch="82" name="Davul Edge"/>
+<Music.PitchName pitch="83" name="Davul Open"/>
+<Music.PitchName pitch="84" name="Davul Slap"/>
+<Music.PitchName pitch="85" name="Davul Grace Edge"/>
+<Music.PitchName pitch="86" name="Ghaval Open"/>
+<Music.PitchName pitch="87" name="Ghaval Slap Soft"/>
+<Music.PitchName pitch="88" name="Ghaval Slap Hard"/>
+<Music.PitchName pitch="89" name="Ghaval Edge"/>
+<Music.PitchName pitch="90" name="Ghaval Edge Closed"/>
+<Music.PitchName pitch="91" name="Ghaval Shake"/>
+<Music.PitchName pitch="92" name="Ghaval Roll"/>
+<Music.PitchName pitch="93" name="Ghaval Grace Open"/>
+<Music.PitchName pitch="94" name="Doira Shake"/>
+<Music.PitchName pitch="95" name="Doira Open Soft"/>
+<Music.PitchName pitch="96" name="Doira Open Hard"/>
+<Music.PitchName pitch="97" name="Doira Slap"/>
+<Music.PitchName pitch="98" name="Doira Edge Roll"/>
+<Music.PitchName pitch="99" name="Doira Edge"/>
+<Music.PitchName pitch="100" name="Doira Grace Slap"/>
+<Music.PitchName pitch="101" name="Tajira Edge"/>
+<Music.PitchName pitch="102" name="Tajira Open"/>
+<Music.PitchName pitch="103" name="Tajira Closed"/>
+<Music.PitchName pitch="104" name="Riq Open Soft"/>
+<Music.PitchName pitch="105" name="Riq Jingle Closed"/>
+<Music.PitchName pitch="106" name="Riq Dun Open"/>
+<Music.PitchName pitch="107" name="Riq Slap"/>
+<Music.PitchName pitch="108" name="Riq Jingle Open"/>
+<Music.PitchName pitch="109" name="Riq Edge Soft"/>
+<Music.PitchName pitch="110" name="Riq Flam"/>
+<Music.PitchName pitch="111" name="Riq Edge Open"/>
+<Music.PitchName pitch="112" name="Riq Roll Fast 1"/>
+<Music.PitchName pitch="113" name="Riq Roll Fast 2"/>
+<Music.PitchName pitch="114" name="Riq Roll Med"/>
+<Music.PitchName pitch="115" name="Riq Roll Long"/>
+<Music.PitchName pitch="116" name="Moroccan Bongos Large Low Open "/>
+<Music.PitchName pitch="117" name="Moroccan Bongos Large Low Edge"/>
+<Music.PitchName pitch="118" name="Moroccan Bongos Med Low Open"/>
+<Music.PitchName pitch="119" name="Moroccan Bongos Med Low Edge"/>
+<Music.PitchName pitch="120" name="Moroccan Bongos Med Hi Open"/>
+<Music.PitchName pitch="121" name="Moroccan Bongos Large Hi Edge"/>
+<Music.PitchName pitch="122" name="Moroccan Bongos Large Hi Open"/>
+<Music.PitchName pitch="123" name="Moroccan Bongos Hi Hi Open"/>
+<Music.PitchName pitch="124" name="Moroccan Bongos Hi Lo Open"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

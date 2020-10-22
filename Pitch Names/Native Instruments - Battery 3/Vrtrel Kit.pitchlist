@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="Vrtrel 1"/>
+<Music.PitchName pitch="25" name="Vrtrel 10"/>
+<Music.PitchName pitch="26" name="Vrtrel 11"/>
+<Music.PitchName pitch="27" name="Vrtrel 12"/>
+<Music.PitchName pitch="28" name="Vrtrel 13"/>
+<Music.PitchName pitch="29" name="Vrtrel 14"/>
+<Music.PitchName pitch="30" name="Vrtrel 15"/>
+<Music.PitchName pitch="31" name="Vrtrel 16"/>
+<Music.PitchName pitch="32" name="Vrtrel 17"/>
+<Music.PitchName pitch="33" name="Vrtrel 18"/>
+<Music.PitchName pitch="34" name="Vrtrel 19"/>
+<Music.PitchName pitch="35" name="Vrtrel 2"/>
+<Music.PitchName pitch="36" name="Vrtrel 20"/>
+<Music.PitchName pitch="37" name="Vrtrel 21"/>
+<Music.PitchName pitch="38" name="Vrtrel 22"/>
+<Music.PitchName pitch="39" name="Vrtrel 23"/>
+<Music.PitchName pitch="40" name="Vrtrel 24"/>
+<Music.PitchName pitch="41" name="Vrtrel 25"/>
+<Music.PitchName pitch="42" name="Vrtrel 26"/>
+<Music.PitchName pitch="43" name="Vrtrel 27"/>
+<Music.PitchName pitch="44" name="Vrtrel 28"/>
+<Music.PitchName pitch="45" name="Vrtrel 29"/>
+<Music.PitchName pitch="46" name="Vrtrel 3"/>
+<Music.PitchName pitch="47" name="Vrtrel 30"/>
+<Music.PitchName pitch="48" name="Vrtrel 31"/>
+<Music.PitchName pitch="49" name="Vrtrel 32"/>
+<Music.PitchName pitch="50" name="Vrtrel 33"/>
+<Music.PitchName pitch="51" name="Vrtrel 34"/>
+<Music.PitchName pitch="52" name="Vrtrel 35"/>
+<Music.PitchName pitch="53" name="Vrtrel 36"/>
+<Music.PitchName pitch="54" name="Vrtrel 37"/>
+<Music.PitchName pitch="55" name="Vrtrel 38"/>
+<Music.PitchName pitch="56" name="Vrtrel 39"/>
+<Music.PitchName pitch="57" name="Vrtrel 4"/>
+<Music.PitchName pitch="58" name="Vrtrel 40"/>
+<Music.PitchName pitch="59" name="Vrtrel 41"/>
+<Music.PitchName pitch="60" name="Vrtrel 42"/>
+<Music.PitchName pitch="61" name="Vrtrel 43"/>
+<Music.PitchName pitch="62" name="Vrtrel 44"/>
+<Music.PitchName pitch="63" name="Vrtrel 45"/>
+<Music.PitchName pitch="64" name="Vrtrel 46"/>
+<Music.PitchName pitch="65" name="Vrtrel 47"/>
+<Music.PitchName pitch="66" name="Vrtrel 48"/>
+<Music.PitchName pitch="67" name="Vrtrel 49"/>
+<Music.PitchName pitch="68" name="Vrtrel 5"/>
+<Music.PitchName pitch="69" name="Vrtrel 50"/>
+<Music.PitchName pitch="70" name="Vrtrel 51"/>
+<Music.PitchName pitch="71" name="Vrtrel 52"/>
+<Music.PitchName pitch="72" name="Vrtrel 53"/>
+<Music.PitchName pitch="73" name="Vrtrel 54"/>
+<Music.PitchName pitch="74" name="Vrtrel 55"/>
+<Music.PitchName pitch="75" name="Vrtrel 56"/>
+<Music.PitchName pitch="76" name="Vrtrel 57"/>
+<Music.PitchName pitch="77" name="Vrtrel 58"/>
+<Music.PitchName pitch="78" name="Vrtrel 59"/>
+<Music.PitchName pitch="79" name="Vrtrel 6"/>
+<Music.PitchName pitch="80" name="Vrtrel 60"/>
+<Music.PitchName pitch="81" name="Vrtrel 61"/>
+<Music.PitchName pitch="82" name="Vrtrel 62"/>
+<Music.PitchName pitch="83" name="Vrtrel 63"/>
+<Music.PitchName pitch="84" name="Vrtrel 64"/>
+<Music.PitchName pitch="85" name="Vrtrel 65"/>
+<Music.PitchName pitch="86" name="Vrtrel 66"/>
+<Music.PitchName pitch="87" name="Vrtrel 67"/>
+<Music.PitchName pitch="88" name="Vrtrel 68"/>
+<Music.PitchName pitch="89" name="Vrtrel 69"/>
+<Music.PitchName pitch="90" name="Vrtrel 7"/>
+<Music.PitchName pitch="91" name="Vrtrel 70"/>
+<Music.PitchName pitch="92" name="Vrtrel 71"/>
+<Music.PitchName pitch="93" name="Vrtrel 72"/>
+<Music.PitchName pitch="94" name="Vrtrel 73"/>
+<Music.PitchName pitch="95" name="Vrtrel 74"/>
+<Music.PitchName pitch="96" name="Vrtrel 75"/>
+<Music.PitchName pitch="97" name="Vrtrel 76"/>
+<Music.PitchName pitch="98" name="Vrtrel 77"/>
+<Music.PitchName pitch="99" name="Vrtrel 78"/>
+<Music.PitchName pitch="100" name="Vrtrel 79"/>
+<Music.PitchName pitch="101" name="Vrtrel 8"/>
+<Music.PitchName pitch="102" name="Vrtrel 80"/>
+<Music.PitchName pitch="103" name="Vrtrel 81"/>
+<Music.PitchName pitch="104" name="Vrtrel 82"/>
+<Music.PitchName pitch="105" name="Vrtrel 83"/>
+<Music.PitchName pitch="106" name="Vrtrel 84"/>
+<Music.PitchName pitch="107" name="Vrtrel 85"/>
+<Music.PitchName pitch="108" name="Vrtrel 86"/>
+<Music.PitchName pitch="109" name="Vrtrel 87"/>
+<Music.PitchName pitch="110" name="Vrtrel 88"/>
+<Music.PitchName pitch="111" name="Vrtrel 89"/>
+<Music.PitchName pitch="112" name="Vrtrel 9"/>
+<Music.PitchName pitch="113" name="Vrtrel 90"/>
+<Music.PitchName pitch="114" name="Vrtrel 91"/>
+<Music.PitchName pitch="115" name="Vrtrel 92"/>
+<Music.PitchName pitch="116" name="Vrtrel 93"/>
+<Music.PitchName pitch="117" name="Vrtrel 94"/>
+<Music.PitchName pitch="118" name="Vrtrel 95"/>
+<Music.PitchName pitch="119" name="Vrtrel 96"/>
+<Music.PitchName pitch="120" name="Vrtrel 97"/>
+<Music.PitchName pitch="121" name="---"/>
+<Music.PitchName pitch="122" name="---"/>
+<Music.PitchName pitch="123" name="---"/>
+<Music.PitchName pitch="124" name="---"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

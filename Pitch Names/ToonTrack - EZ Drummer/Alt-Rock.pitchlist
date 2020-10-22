@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="36" name="Kick - Hit" color="FFDD6105"/>
+
+	<Music.PitchName pitch="33" name="Snare - Edge" color="FF12FF8D"/>
+	<Music.PitchName pitch="37" name="Snare - Side Stick" color="FF12FF8D"/>
+	<Music.PitchName pitch="38" name="Snare - Center" color="FF12FF8D"/>
+	<Music.PitchName pitch="40" name="Snare - Rimshot" color="FF12FF8D"/>
+	<Music.PitchName pitch="71" name="Snare - Rim Only" color="FF12FF8D"/>
+	
+	<Music.PitchName pitch="62" name="HH - Tight Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="63" name="HH - Tight Tip" color="FF5C00FF"/>
+	<Music.PitchName pitch="61" name="HH - Closed Tip" color="FF5C00FF"/>
+	<Music.PitchName pitch="22" name="HH - Closed Edge" color="FF5C00FF"/>
+	<Music.PitchName pitch="12" name="HH - Open Tip 1" color="FF5C00FF"/>
+	<Music.PitchName pitch="24" name="HH - Open Edge 1" color="FF5C00FF"/>
+	<Music.PitchName pitch="13" name="HH - Open Tip 2" color="FF5C00FF"/>
+	<Music.PitchName pitch="25" name="HH - Open Edge 2" color="FF5C00FF"/>
+	<Music.PitchName pitch="14" name="HH - Open Tip 3" color="FF5C00FF"/>
+	<Music.PitchName pitch="26" name="HH - Open Edge 3" color="FF5C00FF"/>
+	<Music.PitchName pitch="15" name="HH - Open Tip 4" color="FF5C00FF"/>
+	<Music.PitchName pitch="16" name="HH - Open Tip 5" color="FF5C00FF"/>
+	<Music.PitchName pitch="60" name="HH - Open Max" color="FF5C00FF"/>
+	<Music.PitchName pitch="42" name="HH{GM} - Closed" color="FF5C00FF"/>
+	<Music.PitchName pitch="44" name="HH{GM} - Pedal" color="FF5C00FF"/>
+	<Music.PitchName pitch="46" name="HH{GM} - Open" color="FF5C00FF"/>
+	<Music.PitchName pitch="20" name="HH - CC Variable" color="FF5C00FF"/>
+	<Music.PitchName pitch="23" name="HH - Open Pedal" color="FF5C00FF"/>
+	<Music.PitchName pitch="21" name="HH - Closed Pedal" color="FF5C00FF"/>
+	<Music.PitchName pitch="65" name="HH - Seq Hits" color="FF5C00FF"/>
+	
+	<Music.PitchName pitch="49" name="Cymbal 1 - Crashed" color="FFD06EBC"/>
+	<Music.PitchName pitch="50" name="Cymbal 1 - Muted" color="FFD06EBC"/>
+	<Music.PitchName pitch="54" name="Cymbal 2 - Muted" color="FFD06EBC"/>
+	<Music.PitchName pitch="55" name="Cymbal 2 - Crashed" color="FFD06EBC"/>
+	<Music.PitchName pitch="57" name="Cymbal 3 - Crashed" color="FFD06EBC"/>
+	<Music.PitchName pitch="58" name="Cymbal 3 - Muted" color="FFD06EBC"/>
+	<Music.PitchName pitch="51" name="Ride - Bow Tip" color="FFD06EBC"/>
+	<Music.PitchName pitch="84" name="Ride - Bow Shank" color="FFD06EBC"/>
+	<Music.PitchName pitch="85" name="Ride - Bell Tip" color="FFD06EBC"/>
+	<Music.PitchName pitch="53" name="Ride - Bell Shank" color="FFD06EBC"/>
+	<Music.PitchName pitch="59" name="Ride - Edge" color="FFD06EBC"/>
+	<Music.PitchName pitch="83" name="Ride - Muted" color="FFD06EBC"/>
+	
+	<Music.PitchName pitch="41" name="Floortom 2 - Center" color="FF85E100"/>
+	<Music.PitchName pitch="72" name="Floortom 2 - Rim Only" color="FF85E100"/>
+	<Music.PitchName pitch="73" name="Floortom 2 - Rimshot" color="FF85E100"/>
+	<Music.PitchName pitch="43" name="Floortom 1 - Center" color="FF85E100"/>
+	<Music.PitchName pitch="74" name="Floortom 1 - Rim Only" color="FF85E100"/>
+	<Music.PitchName pitch="75" name="Floortom 1 - Rimshot" color="FF85E100"/>
+	<Music.PitchName pitch="47" name="Racktom 2 - Center" color="FF85E100"/>
+	<Music.PitchName pitch="79" name="Racktom 2 - Rim Only" color="FF85E100"/>
+	<Music.PitchName pitch="80" name="Racktom 2 - Rimshot" color="FF85E100"/>
+	<Music.PitchName pitch="48" name="Racktom 1 - Center" color="FF51D361"/>
+	<Music.PitchName pitch="81" name="Racktom 1 - Rim Only" color="FF85E100"/>
+	<Music.PitchName pitch="82" name="Racktom 1 - Rimshot" color="FF85E100"/>
+	
+	<Music.PitchName pitch="34" name="Timpani 2 - Center" color="FF5A4528"/>
+	<Music.PitchName pitch="35" name="Timpani 1 - Center" color="FF5A4528"/>
+	<Music.PitchName pitch="56" name="Cowbell - Shank" color="FF5A4528"/>
+	<Music.PitchName pitch="76" name="Cowbell - Tip" color="FF5A4528"/>
+	
+	<Music.PitchName pitch="1" name="Claps" color="FFFFFFFF"/>
+	<Music.PitchName pitch="2" name="Shaker" color="FFFFFFFF"/>
+	<Music.PitchName pitch="3" name="Tamborine" color="FFFFFFFF"/>
+</Music.PitchNameList>

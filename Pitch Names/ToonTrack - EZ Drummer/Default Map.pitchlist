@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="21" name="Hats Pedal Chick"/>
+<Music.PitchName pitch="22" name="Hats Closed Edge"/>
+<Music.PitchName pitch="23" name="Hats Foot Splash"/>
+<Music.PitchName pitch="24" name="Open Hats 1"/>
+<Music.PitchName pitch="25" name="Open Hats 2"/>
+<Music.PitchName pitch="26" name="Open Hats 3"/>
+<Music.PitchName pitch="27" name="Crash A Alias"/>
+<Music.PitchName pitch="28" name="Crash A Alias"/>
+<Music.PitchName pitch="29" name="Crash A Alias"/>
+<Music.PitchName pitch="30" name="Crash B Alias"/>
+<Music.PitchName pitch="31" name="Crash B Alias"/>
+<Music.PitchName pitch="32" name="Crash B Alias"/>
+<Music.PitchName pitch="33" name="Snare Left"/>
+<Music.PitchName pitch="34" name="Kick Alias"/>
+<Music.PitchName pitch="35" name="Kick Alias"/>
+<Music.PitchName pitch="36" name="Kick"/>
+<Music.PitchName pitch="37" name="Sidestick"/>
+<Music.PitchName pitch="38" name="Snare Right"/>
+<Music.PitchName pitch="39" name="Snare Alias"/>
+<Music.PitchName pitch="40" name="Snare Rimshot"/>
+<Music.PitchName pitch="41" name="FloorTom Alias"/>
+<Music.PitchName pitch="42" name="Closed Hats (GM)"/>
+<Music.PitchName pitch="43" name="Floor Tom"/>
+<Music.PitchName pitch="44" name="Hats Pedal (GM)"/>
+<Music.PitchName pitch="45" name="RackTom2 Alias"/>
+<Music.PitchName pitch="46" name="Open Hats (GM)"/>
+<Music.PitchName pitch="47" name="RackTom 2"/>
+<Music.PitchName pitch="48" name="RackTom 1 Alias"/>
+<Music.PitchName pitch="49" name="Crash A (GM)"/>
+<Music.PitchName pitch="50" name="Rack Tom 1"/>
+<Music.PitchName pitch="51" name="Ride Bow"/>
+<Music.PitchName pitch="52" name="Crash B (GM)"/>
+<Music.PitchName pitch="53" name="Ride Bell"/>
+<Music.PitchName pitch="54" name="Crash A Muted"/>
+<Music.PitchName pitch="55" name="Crash A Sustained"/>
+<Music.PitchName pitch="56" name="CowBell"/>
+<Music.PitchName pitch="57" name="Crash B Sustained"/>
+<Music.PitchName pitch="58" name="Crash B Muted"/>
+<Music.PitchName pitch="59" name="Ride Punch"/>
+<Music.PitchName pitch="60" name="Hats Open Max"/>
+<Music.PitchName pitch="61" name="Hats Closed Tip"/>
+<Music.PitchName pitch="62" name="Hats Tight Edge"/>
+<Music.PitchName pitch="63" name="Hats Tight Tip"/>
+<Music.PitchName pitch="64" name="Hats Seq Hard"/>
+<Music.PitchName pitch="65" name="Hats Seq Soft"/>
+</Music.PitchNameList>

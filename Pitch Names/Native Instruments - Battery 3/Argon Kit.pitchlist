@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="---"/>
+<Music.PitchName pitch="25" name="---"/>
+<Music.PitchName pitch="26" name="---"/>
+<Music.PitchName pitch="27" name="---"/>
+<Music.PitchName pitch="28" name="---"/>
+<Music.PitchName pitch="29" name="---"/>
+<Music.PitchName pitch="30" name="---"/>
+<Music.PitchName pitch="31" name="---"/>
+<Music.PitchName pitch="32" name="---"/>
+<Music.PitchName pitch="33" name="---"/>
+<Music.PitchName pitch="34" name="---"/>
+<Music.PitchName pitch="35" name="---"/>
+<Music.PitchName pitch="36" name="909 Kick"/>
+<Music.PitchName pitch="37" name="909 Kick alt"/>
+<Music.PitchName pitch="38" name="BDrum+Click"/>
+<Music.PitchName pitch="39" name="BDrum+Click alt"/>
+<Music.PitchName pitch="40" name="909 Norm"/>
+<Music.PitchName pitch="41" name="Crisbase"/>
+<Music.PitchName pitch="42" name="Closed Metalhat"/>
+<Music.PitchName pitch="43" name="Closed Metalhat alt"/>
+<Music.PitchName pitch="44" name="Closed + Open Metalhat"/>
+<Music.PitchName pitch="45" name="Open Metalhat"/>
+<Music.PitchName pitch="46" name="Open Metalhat alt"/>
+<Music.PitchName pitch="47" name="Band Snare"/>
+<Music.PitchName pitch="48" name="747 Shake"/>
+<Music.PitchName pitch="49" name="747 Shake alt"/>
+<Music.PitchName pitch="50" name="Classic Clap"/>
+<Music.PitchName pitch="51" name="Classic Clap alt"/>
+<Music.PitchName pitch="52" name="Noizy Snare"/>
+<Music.PitchName pitch="53" name="Snare"/>
+<Music.PitchName pitch="54" name="Snare + Snare Stereo"/>
+<Music.PitchName pitch="55" name="Snare Stereo"/>
+<Music.PitchName pitch="56" name="Snare Stereo alt"/>
+<Music.PitchName pitch="57" name="Snare Stereo alt2"/>
+<Music.PitchName pitch="58" name="Snare Stereo alt3"/>
+<Music.PitchName pitch="59" name="Snare Stereo alt4"/>
+<Music.PitchName pitch="60" name="Dith Snare"/>
+<Music.PitchName pitch="61" name="Dith Snare + Blechhat 1"/>
+<Music.PitchName pitch="62" name="Blechhat 1"/>
+<Music.PitchName pitch="63" name="Blechhat 1 + 2"/>
+<Music.PitchName pitch="64" name="Blechhat 2"/>
+<Music.PitchName pitch="65" name="Blechhat Op"/>
+<Music.PitchName pitch="66" name="Blechhat Op"/>
+<Music.PitchName pitch="67" name="Sk Snare"/>
+<Music.PitchName pitch="68" name="Sk Snare + Band Clapper"/>
+<Music.PitchName pitch="69" name="Band Clapper"/>
+<Music.PitchName pitch="70" name="---"/>
+<Music.PitchName pitch="71" name="Syn Shot"/>
+<Music.PitchName pitch="72" name="909 Norm 2"/>
+<Music.PitchName pitch="73" name="---"/>
+<Music.PitchName pitch="74" name="Fresh Crash 1"/>
+<Music.PitchName pitch="75" name="---"/>
+<Music.PitchName pitch="76" name="Fresh Crash 2"/>
+<Music.PitchName pitch="77" name="Noise Hat 1"/>
+<Music.PitchName pitch="78" name="---"/>
+<Music.PitchName pitch="79" name="Noise Hat 2"/>
+<Music.PitchName pitch="80" name="---"/>
+<Music.PitchName pitch="81" name="Noise Hat 3"/>
+<Music.PitchName pitch="82" name="---"/>
+<Music.PitchName pitch="83" name="Noise Hat 4"/>
+<Music.PitchName pitch="84" name="Noise Hat 5"/>
+<Music.PitchName pitch="85" name="---"/>
+<Music.PitchName pitch="86" name="Jungle Snare"/>
+<Music.PitchName pitch="87" name="---"/>
+<Music.PitchName pitch="88" name="Klirr Snare"/>
+<Music.PitchName pitch="89" name="Cymbal 1"/>
+<Music.PitchName pitch="90" name="---"/>
+<Music.PitchName pitch="91" name="Cymbal 2"/>
+<Music.PitchName pitch="92" name="---"/>
+<Music.PitchName pitch="93" name="Clat Snare"/>
+<Music.PitchName pitch="94" name="---"/>
+<Music.PitchName pitch="95" name="Dist Snare"/>
+<Music.PitchName pitch="96" name="Mass Base"/>
+<Music.PitchName pitch="97" name="---"/>
+<Music.PitchName pitch="98" name="080 BD"/>
+<Music.PitchName pitch="99" name="080 BD alt"/>
+<Music.PitchName pitch="100" name="080 BD alt2"/>
+<Music.PitchName pitch="101" name="080 BD alt3"/>
+<Music.PitchName pitch="102" name="080 BD alt4"/>
+<Music.PitchName pitch="103" name="080 BD alt5"/>
+<Music.PitchName pitch="104" name="080 BD alt6"/>
+<Music.PitchName pitch="105" name="080 BD alt7"/>
+<Music.PitchName pitch="106" name="080 BD alt8"/>
+<Music.PitchName pitch="107" name="080 BD alt9"/>
+<Music.PitchName pitch="108" name="Crisp Snare"/>
+<Music.PitchName pitch="109" name="---"/>
+<Music.PitchName pitch="110" name="Hum Base"/>
+<Music.PitchName pitch="111" name="Klirr Snare 2"/>
+<Music.PitchName pitch="112" name="Toback Snare"/>
+<Music.PitchName pitch="113" name="Kratz Snare"/>
+<Music.PitchName pitch="114" name="808+909 Snare"/>
+<Music.PitchName pitch="115" name="Sk Snare 2"/>
+<Music.PitchName pitch="116" name="Fresh Crash 3"/>
+<Music.PitchName pitch="117" name="909 Norm"/>
+<Music.PitchName pitch="118" name="Metalhat Cl"/>
+<Music.PitchName pitch="119" name="Metalhat Op"/>
+<Music.PitchName pitch="120" name="Mfb Hat Cl"/>
+<Music.PitchName pitch="121" name="Mfb Hat Op"/>
+<Music.PitchName pitch="122" name="Band Clapper 2"/>
+<Music.PitchName pitch="123" name="Cabasa"/>
+<Music.PitchName pitch="124" name="Granu Snare"/>
+<Music.PitchName pitch="125" name="Phased Snare"/>
+<Music.PitchName pitch="126" name="Tiny Hihat Cl"/>
+<Music.PitchName pitch="127" name="Tiny Hihat Op"/>
+</Music.PitchNameList>

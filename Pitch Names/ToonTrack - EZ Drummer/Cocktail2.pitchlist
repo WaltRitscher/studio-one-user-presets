@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="65" name="HH Seq Soft"/>
+	<Music.PitchName pitch="64" name="HH Seq Hard"/>
+	<Music.PitchName pitch="63" name="(Closed alias)"/>
+	<Music.PitchName pitch="62" name="(Closed alias)"/>
+	<Music.PitchName pitch="61" name="(Closed alias)"/>
+	<Music.PitchName pitch="60" name="HH Open Max"/>
+	<Music.PitchName pitch="59" name="Ride Edge"/>
+	<Music.PitchName pitch="58" name="(Ride alias)"/>
+	<Music.PitchName pitch="57" name="(Ride alias)"/>
+	<Music.PitchName pitch="56" name="(Ride alias)"/>
+	<Music.PitchName pitch="55" name="(Ride alias)"/>
+	<Music.PitchName pitch="54" name="(Ride alias)"/>
+	<Music.PitchName pitch="53" name="Ride Bell"/>
+	<Music.PitchName pitch="52" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="51" name="Ride Bow"/>
+	<Music.PitchName pitch="50" name="HSn Head"/>
+	<Music.PitchName pitch="49" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="48" name="(HSn alias)"/>
+	<Music.PitchName pitch="47" name="(HSn alias)"/>
+	<Music.PitchName pitch="46" name="GM Open Hi Hat"/>
+	<Music.PitchName pitch="45" name="Tom Head"/>
+	<Music.PitchName pitch="44" name="GM HH Pedal"/>
+	<Music.PitchName pitch="43" name="(Tom alias)"/>
+	<Music.PitchName pitch="42" name="GM Closed HH"/>
+	<Music.PitchName pitch="41" name="(Tom alias)"/>
+	<Music.PitchName pitch="40" name="Snare Rimshot"/>
+	<Music.PitchName pitch="39" name="(Snare Head alias)"/>
+	<Music.PitchName pitch="38" name="Snare Right"/>
+	<Music.PitchName pitch="37" name="Sidestick"/>
+	<Music.PitchName pitch="36" name="Kick Right"/>
+	<Music.PitchName pitch="35" name="(Kick alias)"/>
+	<Music.PitchName pitch="34" name="(Kick alias)"/>
+	<Music.PitchName pitch="33" name="Snare Left"/>
+	<Music.PitchName pitch="32" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="31" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="30" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="29" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="28" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="27" name="(Ride Edge alias)"/>
+	<Music.PitchName pitch="26" name="HH Open 3"/>
+	<Music.PitchName pitch="25" name="HH Open 2"/>
+	<Music.PitchName pitch="24" name="HH Open 1"/>
+	<Music.PitchName pitch="23" name="HH Foot Splash"/>
+	<Music.PitchName pitch="22" name="HH Closed"/>
+	<Music.PitchName pitch="21" name="HH Pedal Chick"/>
+</Music.PitchNameList>

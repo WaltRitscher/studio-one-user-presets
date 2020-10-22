@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList>
+	<Attributes pitch="24" name="Sustain p"/>
+	<Attributes pitch="25" name="Sustain f"/>
+	<Attributes pitch="26" name="Sforzendo p"/>
+	<Attributes pitch="27" name="Sforzendo f"/>
+	<Attributes pitch="28" name="Sforzendo Fast"/>
+	<Attributes pitch="29" name="Sforzendo Slow"/>
+	<Attributes pitch="30" name="Key Switch 7"/>
+	<Attributes pitch="31" name="Key Switch 8"/>
+</Music.KeySwitchList>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList>
+	<Attributes pitch="24" name="Sustain"/>
+	<Attributes pitch="25" name="Sordino Sus. Vibrato"/>
+	<Attributes pitch="26" name="Tremolo"/>
+	<Attributes pitch="27" name="Harmonics"/>
+	<Attributes pitch="28" name="Staccato"/>
+	<Attributes pitch="29" name="Spiccato"/>
+	<Attributes pitch="30" name="Pizzicato"/>
+	<Attributes pitch="31" name="Key Switch 8"/>
+</Music.KeySwitchList>

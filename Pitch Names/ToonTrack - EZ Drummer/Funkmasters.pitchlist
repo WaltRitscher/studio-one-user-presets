@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="21" name="[Hats] Pedal Chick"/>
+<Music.PitchName pitch="22" name="[Hats] Closed Edge"/>
+<Music.PitchName pitch="23" name="[Hats] Foot Splash"/>
+<Music.PitchName pitch="24" name="[Hats] Open 1"/>
+<Music.PitchName pitch="25" name="[Hats] Open 2"/>
+<Music.PitchName pitch="26" name="[Hats] Open 3"/>
+<Music.PitchName pitch="27" name="[Crash] Crashed"/>
+<Music.PitchName pitch="28" name="[Crash] Crashed"/>
+<Music.PitchName pitch="29" name="[Crash] Crashed"/>
+<Music.PitchName pitch="30" name="[Ride] Crashed"/>
+<Music.PitchName pitch="31" name="[Ride] Crashed"/>
+<Music.PitchName pitch="32" name="[Ride] Crashed"/>
+<Music.PitchName pitch="33" name="[Snare] Left"/>
+<Music.PitchName pitch="34" name="[Kick] Alias"/>
+<Music.PitchName pitch="35" name="[Kick] Alias"/>
+<Music.PitchName pitch="36" name="[Kick] Right"/>
+<Music.PitchName pitch="37" name="[Snare] Sidestick"/>
+<Music.PitchName pitch="38" name="[Snare] Right"/>
+<Music.PitchName pitch="39" name="[Snare] Right Alias"/>
+<Music.PitchName pitch="40" name="[Snare] Rimshot"/>
+<Music.PitchName pitch="41" name="[FloorTom] Head Alias"/>
+<Music.PitchName pitch="42" name="[GM] Closed Hats"/>
+<Music.PitchName pitch="43" name="[FloorTom] Head"/>
+<Music.PitchName pitch="44" name="[GM] Pedal Hats"/>
+<Music.PitchName pitch="45" name="[RackTom2] Head Alias"/>
+<Music.PitchName pitch="46" name="[GM] Open Hats"/>
+<Music.PitchName pitch="47" name="[RackTom2] Head"/>
+<Music.PitchName pitch="48" name="[RackTom1] Head"/>
+<Music.PitchName pitch="49" name="[Crash] Crash"/>
+<Music.PitchName pitch="50" name="[RackTom1] Head Alias"/>
+<Music.PitchName pitch="51" name="[Ride] Bow"/>
+<Music.PitchName pitch="52" name="[Ride] Crash"/>
+<Music.PitchName pitch="53" name="[Ride] Bell"/>
+<Music.PitchName pitch="54" name="[Crash] Mute"/>
+<Music.PitchName pitch="55" name="[Crash] Crash Alias"/>
+<Music.PitchName pitch="56" name="[WdBlk] Woodblock"/>
+<Music.PitchName pitch="57" name="[Ride] Crash Alias"/>
+<Music.PitchName pitch="58" name="[Ride] Mute"/>
+<Music.PitchName pitch="59" name="[Ride] Crash"/>
+<Music.PitchName pitch="60" name="[Hats] Open Max"/>
+<Music.PitchName pitch="61" name="[Hats] Closed Tip"/>
+<Music.PitchName pitch="62" name="[Hats] Tight"/>
+<Music.PitchName pitch="63" name="[Hats] Tight Tip"/>
+<Music.PitchName pitch="64" name="[Hats] Alias"/>
+<Music.PitchName pitch="65" name="[Hats] Sequence"/>
+<Music.PitchName pitch="69" name="[Snare] Alias"/>
+<Music.PitchName pitch="70" name="[Snare] Right Alias"/>
+<Music.PitchName pitch="71" name="[Snare] Rim Only"/>
+<Music.PitchName pitch="72" name="[FloorTom] Rim Only Alias"/>
+<Music.PitchName pitch="73" name="[FloorTom] Rimshot Alias"/>
+<Music.PitchName pitch="74" name="[FloorTom] Rim Only"/>
+<Music.PitchName pitch="75" name="[FloorTom] Rim"/>
+<Music.PitchName pitch="76" name="[WdBlk] Stickblock"/>
+<Music.PitchName pitch="77" name="[RackTom2] Rim Only Alias"/>
+<Music.PitchName pitch="78" name="[RackTom2] Rimshot Alias"/>
+<Music.PitchName pitch="79" name="[RackTom2] Rim Only"/>
+<Music.PitchName pitch="80" name="[RackTom2] Rimshot"/>
+<Music.PitchName pitch="81" name="[RackTom1] Rim Only"/>
+<Music.PitchName pitch="82" name="[RackTom1] Rimshot"/>
+<Music.PitchName pitch="83" name="[Crash] Mute"/>
+<Music.PitchName pitch="84" name="[Crash] Ride"/>
+<Music.PitchName pitch="85" name="[Crash] Bell"/>
+<Music.PitchName pitch="86" name="[Crash] Crash"/>
+<Music.PitchName pitch="119" name="[Hats] Closed Bell"/>
+<Music.PitchName pitch="120" name="[Hats] Open 1 Bell"/>
+<Music.PitchName pitch="121" name="[Hats] Open 2 Bell"/>
+<Music.PitchName pitch="122" name="[Hats] Closed Alias"/>
+<Music.PitchName pitch="123" name="[Hats] Open 1 Alias"/>
+<Music.PitchName pitch="124" name="[Hats] Open 3 Alias"/>
+<Music.PitchName pitch="125" name="[Snare] Right Alias"/>
+<Music.PitchName pitch="126" name="[Snare] Rimshot Alias"/>
+<Music.PitchName pitch="127" name="[Snare] Sidestick Alias"/>
+</Music.PitchNameList>

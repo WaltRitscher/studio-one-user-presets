@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="---"/>
+<Music.PitchName pitch="25" name="---"/>
+<Music.PitchName pitch="26" name="---"/>
+<Music.PitchName pitch="27" name="---"/>
+<Music.PitchName pitch="28" name="---"/>
+<Music.PitchName pitch="29" name="---"/>
+<Music.PitchName pitch="30" name="---"/>
+<Music.PitchName pitch="31" name="---"/>
+<Music.PitchName pitch="32" name="---"/>
+<Music.PitchName pitch="33" name="---"/>
+<Music.PitchName pitch="34" name="---"/>
+<Music.PitchName pitch="35" name="---"/>
+<Music.PitchName pitch="36" name="Snare"/>
+<Music.PitchName pitch="37" name="Snare Snares Off"/>
+<Music.PitchName pitch="38" name="Field Drum"/>
+<Music.PitchName pitch="39" name="Bass Drum"/>
+<Music.PitchName pitch="40" name="Suspended Cymbal"/>
+<Music.PitchName pitch="41" name="Tambourine"/>
+<Music.PitchName pitch="42" name="Piatti"/>
+<Music.PitchName pitch="43" name="Temple Block 1"/>
+<Music.PitchName pitch="44" name="Temple Block 2"/>
+<Music.PitchName pitch="45" name="Temple Block 3"/>
+<Music.PitchName pitch="46" name="Temple Block 4"/>
+<Music.PitchName pitch="47" name="Temple Block 5"/>
+<Music.PitchName pitch="48" name="Snare Roll"/>
+<Music.PitchName pitch="49" name="Snare Snares Off Roll"/>
+<Music.PitchName pitch="50" name="Field Drum Roll"/>
+<Music.PitchName pitch="51" name="Bass Drum Roll"/>
+<Music.PitchName pitch="52" name="Suspended Cymbal Roll"/>
+<Music.PitchName pitch="53" name="Tambourine Shake"/>
+<Music.PitchName pitch="54" name="Piatti Roll"/>
+<Music.PitchName pitch="55" name="Claves"/>
+<Music.PitchName pitch="56" name="Woodblock 1"/>
+<Music.PitchName pitch="57" name="Woodblock 2"/>
+<Music.PitchName pitch="58" name="Woodblock 3"/>
+<Music.PitchName pitch="59" name="Woodblock 4"/>
+<Music.PitchName pitch="60" name="Snare Roll Crescendo"/>
+<Music.PitchName pitch="61" name="Snare Snares Off Roll Crescendo"/>
+<Music.PitchName pitch="62" name="Field Drum Roll Crescendo"/>
+<Music.PitchName pitch="63" name="Bass Drum Roll Crescendo"/>
+<Music.PitchName pitch="64" name="Suspended Cymbal Roll Crescendo"/>
+<Music.PitchName pitch="65" name="Tambourine Shake Crescendo"/>
+<Music.PitchName pitch="66" name="Piatti Secco"/>
+<Music.PitchName pitch="67" name="Chimes Metal Up"/>
+<Music.PitchName pitch="68" name="Castanets"/>
+<Music.PitchName pitch="69" name="Log Drum High"/>
+<Music.PitchName pitch="70" name="Brake Drum"/>
+<Music.PitchName pitch="71" name="Whistle"/>
+<Music.PitchName pitch="72" name="Snare Roll Decrescendo"/>
+<Music.PitchName pitch="73" name="Snare Snares Off Roll Decrescendo"/>
+<Music.PitchName pitch="74" name="Field Drum Roll Decrescendo"/>
+<Music.PitchName pitch="75" name="Bass Drum Roll Decrescendo"/>
+<Music.PitchName pitch="76" name="Suspended Cymbal Roll Decrescendo"/>
+<Music.PitchName pitch="77" name="Tambourine Shake Decrescendo"/>
+<Music.PitchName pitch="78" name="Tam-tam"/>
+<Music.PitchName pitch="79" name="Chimes Metal Down"/>
+<Music.PitchName pitch="80" name="Castanets Roll"/>
+<Music.PitchName pitch="81" name="Log Drum Roll"/>
+<Music.PitchName pitch="82" name="Anvil"/>
+<Music.PitchName pitch="83" name="Peking Opera Gong"/>
+<Music.PitchName pitch="84" name="Snare Flam"/>
+<Music.PitchName pitch="85" name="Snare Snares Off Flam"/>
+<Music.PitchName pitch="86" name="Field Drum Flam"/>
+<Music.PitchName pitch="87" name="Bass Drum Coperto"/>
+<Music.PitchName pitch="88" name="Suspended Cymbal Arco"/>
+<Music.PitchName pitch="89" name="Tambourine Thumb Roll"/>
+<Music.PitchName pitch="90" name="Triangle Single Hit"/>
+<Music.PitchName pitch="91" name="Chimes Wood Up"/>
+<Music.PitchName pitch="92" name="Finger Cymbals Hi"/>
+<Music.PitchName pitch="93" name="Chinese Cymbals"/>
+<Music.PitchName pitch="94" name="Ratchet Long"/>
+<Music.PitchName pitch="95" name="Gong High"/>
+<Music.PitchName pitch="96" name="Snare Three-Stroke Ruff"/>
+<Music.PitchName pitch="97" name="Snare Snares Off Three-Stroke Ruff"/>
+<Music.PitchName pitch="98" name="Field Drum Three-Stroke Ruff"/>
+<Music.PitchName pitch="99" name="Bass Drum Beater On Beater"/>
+<Music.PitchName pitch="100" name="Suspended Cymbal Scrape"/>
+<Music.PitchName pitch="101" name="Tambourine Knee Stroke"/>
+<Music.PitchName pitch="102" name="Triangle Roll"/>
+<Music.PitchName pitch="103" name="Chimes Wood Down"/>
+<Music.PitchName pitch="104" name="Finger Cymbals Lo"/>
+<Music.PitchName pitch="105" name="Guiro"/>
+<Music.PitchName pitch="106" name="Slapstick"/>
+<Music.PitchName pitch="107" name="Gong Low"/>
+<Music.PitchName pitch="108" name="---"/>
+<Music.PitchName pitch="109" name="---"/>
+<Music.PitchName pitch="110" name="---"/>
+<Music.PitchName pitch="111" name="---"/>
+<Music.PitchName pitch="112" name="---"/>
+<Music.PitchName pitch="113" name="---"/>
+<Music.PitchName pitch="114" name="---"/>
+<Music.PitchName pitch="115" name="---"/>
+<Music.PitchName pitch="116" name="---"/>
+<Music.PitchName pitch="117" name="---"/>
+<Music.PitchName pitch="118" name="---"/>
+<Music.PitchName pitch="119" name="---"/>
+<Music.PitchName pitch="120" name="---"/>
+<Music.PitchName pitch="121" name="---"/>
+<Music.PitchName pitch="122" name="---"/>
+<Music.PitchName pitch="123" name="---"/>
+<Music.PitchName pitch="124" name="---"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

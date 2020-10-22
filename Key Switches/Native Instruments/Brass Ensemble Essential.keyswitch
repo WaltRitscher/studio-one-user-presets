@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList>
+	<Attributes pitch="24" name="Sustain"/>
+	<Attributes pitch="25" name="Staccato"/>
+	<Attributes pitch="26" name="Decrescendo"/>
+	<Attributes pitch="27" name="Sforzendo"/>
+	<Attributes pitch="28" name="Crescendo"/>
+	<Attributes pitch="29" name="Swell"/>
+	<Attributes pitch="30" name="Blast FFF"/>
+	<Attributes pitch="31" name="Staccato Velocity"/>
+</Music.KeySwitchList>

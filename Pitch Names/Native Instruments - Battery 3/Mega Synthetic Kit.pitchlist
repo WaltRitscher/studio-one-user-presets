@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="Dop 29"/>
+<Music.PitchName pitch="1" name="Dop 3"/>
+<Music.PitchName pitch="2" name="Dop 30"/>
+<Music.PitchName pitch="3" name="Dop 31"/>
+<Music.PitchName pitch="4" name="Dop 32"/>
+<Music.PitchName pitch="5" name="Dop 33"/>
+<Music.PitchName pitch="6" name="Dop 34"/>
+<Music.PitchName pitch="7" name="Dop 35"/>
+<Music.PitchName pitch="8" name="Dop 36"/>
+<Music.PitchName pitch="9" name="Dop 4"/>
+<Music.PitchName pitch="10" name="Dop 5"/>
+<Music.PitchName pitch="11" name="Dop 6"/>
+<Music.PitchName pitch="12" name="Dop 7"/>
+<Music.PitchName pitch="13" name="Dop 8"/>
+<Music.PitchName pitch="14" name="Dop 9"/>
+<Music.PitchName pitch="15" name="Fet"/>
+<Music.PitchName pitch="16" name="File Snare"/>
+<Music.PitchName pitch="17" name="Flush Hit"/>
+<Music.PitchName pitch="18" name="Fonv"/>
+<Music.PitchName pitch="19" name="Futter"/>
+<Music.PitchName pitch="20" name="Hard Kick 1"/>
+<Music.PitchName pitch="21" name="Hard Kick 2"/>
+<Music.PitchName pitch="22" name="Hard Kick 3"/>
+<Music.PitchName pitch="23" name="Hard Kick 4"/>
+<Music.PitchName pitch="24" name="Hat En"/>
+<Music.PitchName pitch="25" name="Hat Her"/>
+<Music.PitchName pitch="26" name="Hat Sle"/>
+<Music.PitchName pitch="27" name="Hat Stretch 2"/>
+<Music.PitchName pitch="28" name="Hat Stretch"/>
+<Music.PitchName pitch="29" name="Heavy Low Kick 1"/>
+<Music.PitchName pitch="30" name="Highj"/>
+<Music.PitchName pitch="31" name="Hit Ns 2"/>
+<Music.PitchName pitch="32" name="Hit Ns"/>
+<Music.PitchName pitch="33" name="Juei"/>
+<Music.PitchName pitch="34" name="Kick Copler"/>
+<Music.PitchName pitch="35" name="Little Snare"/>
+<Music.PitchName pitch="36" name="Hard Kick 5"/>
+<Music.PitchName pitch="37" name="Hard Kick 6"/>
+<Music.PitchName pitch="38" name="Hard Kick 7"/>
+<Music.PitchName pitch="39" name="Hard Kick 8"/>
+<Music.PitchName pitch="40" name="Hard Kick 9"/>
+<Music.PitchName pitch="41" name="Low Bass 2"/>
+<Music.PitchName pitch="42" name="Low Tub"/>
+<Music.PitchName pitch="43" name="Merd"/>
+<Music.PitchName pitch="44" name="Metal Hit 2"/>
+<Music.PitchName pitch="45" name="Metal Hit"/>
+<Music.PitchName pitch="46" name="Micor"/>
+<Music.PitchName pitch="47" name="Morpher Kick"/>
+<Music.PitchName pitch="48" name="Murky"/>
+<Music.PitchName pitch="49" name="Niker"/>
+<Music.PitchName pitch="50" name="Norh"/>
+<Music.PitchName pitch="51" name="Nsie"/>
+<Music.PitchName pitch="52" name="Org"/>
+<Music.PitchName pitch="53" name="Rapture"/>
+<Music.PitchName pitch="54" name="Rattle Cane"/>
+<Music.PitchName pitch="55" name="Rubble"/>
+<Music.PitchName pitch="56" name="Rumble"/>
+<Music.PitchName pitch="57" name="Slic"/>
+<Music.PitchName pitch="58" name="Sizzle"/>
+<Music.PitchName pitch="59" name="Skk"/>
+<Music.PitchName pitch="60" name="Slah"/>
+<Music.PitchName pitch="61" name="Slank"/>
+<Music.PitchName pitch="62" name="Smaks Hat"/>
+<Music.PitchName pitch="63" name="Smirl"/>
+<Music.PitchName pitch="64" name="Smoris"/>
+<Music.PitchName pitch="65" name="Snap"/>
+<Music.PitchName pitch="66" name="Snar J"/>
+<Music.PitchName pitch="67" name="Snare Cl"/>
+<Music.PitchName pitch="68" name="Sniiter"/>
+<Music.PitchName pitch="69" name="Snitp"/>
+<Music.PitchName pitch="70" name="Sol F"/>
+<Music.PitchName pitch="71" name="Spider"/>
+<Music.PitchName pitch="72" name="Spot Delay"/>
+<Music.PitchName pitch="73" name="Staff Metal"/>
+<Music.PitchName pitch="74" name="Statter"/>
+<Music.PitchName pitch="75" name="Steamer"/>
+<Music.PitchName pitch="76" name="Stff"/>
+<Music.PitchName pitch="77" name="Stitch 2"/>
+<Music.PitchName pitch="78" name="Stitch"/>
+<Music.PitchName pitch="79" name="Stol"/>
+<Music.PitchName pitch="80" name="Storm Clap"/>
+<Music.PitchName pitch="81" name="Strip H"/>
+<Music.PitchName pitch="82" name="Sttor Hat"/>
+<Music.PitchName pitch="83" name="Tile Burg"/>
+<Music.PitchName pitch="84" name="Timer Snap"/>
+<Music.PitchName pitch="85" name="V Stat 2"/>
+<Music.PitchName pitch="86" name="V Stat 3"/>
+<Music.PitchName pitch="87" name="V Stat 4"/>
+<Music.PitchName pitch="88" name="V Stat 5"/>
+<Music.PitchName pitch="89" name="V Stat"/>
+<Music.PitchName pitch="90" name="Vere"/>
+<Music.PitchName pitch="91" name="Veri"/>
+<Music.PitchName pitch="92" name="Vr2"/>
+<Music.PitchName pitch="93" name="Vrte"/>
+<Music.PitchName pitch="94" name="Ader"/>
+<Music.PitchName pitch="95" name="Air Sot"/>
+<Music.PitchName pitch="96" name="Alien At"/>
+<Music.PitchName pitch="97" name="Band Cymbal"/>
+<Music.PitchName pitch="98" name="Bots"/>
+<Music.PitchName pitch="99" name="Bowls Rctt"/>
+<Music.PitchName pitch="100" name="Buzz Module"/>
+<Music.PitchName pitch="101" name="Clab"/>
+<Music.PitchName pitch="102" name="Claves Delay"/>
+<Music.PitchName pitch="103" name="Cral"/>
+<Music.PitchName pitch="104" name="Dark Moler Kick"/>
+<Music.PitchName pitch="105" name="Deep Gong 2"/>
+<Music.PitchName pitch="106" name="Deep Gong"/>
+<Music.PitchName pitch="107" name="Dop 1"/>
+<Music.PitchName pitch="108" name="Dop 10"/>
+<Music.PitchName pitch="109" name="Dop 11"/>
+<Music.PitchName pitch="110" name="Dop 12"/>
+<Music.PitchName pitch="111" name="Dop 13"/>
+<Music.PitchName pitch="112" name="Dop 14"/>
+<Music.PitchName pitch="113" name="Dop 15"/>
+<Music.PitchName pitch="114" name="Dop 16"/>
+<Music.PitchName pitch="115" name="Dop 17"/>
+<Music.PitchName pitch="116" name="Dop 18"/>
+<Music.PitchName pitch="117" name="Dop 19"/>
+<Music.PitchName pitch="118" name="Dop 2"/>
+<Music.PitchName pitch="119" name="Dop 20"/>
+<Music.PitchName pitch="120" name="Dop 21"/>
+<Music.PitchName pitch="121" name="Dop 22"/>
+<Music.PitchName pitch="122" name="Dop 23"/>
+<Music.PitchName pitch="123" name="Dop 24"/>
+<Music.PitchName pitch="124" name="Dop 25"/>
+<Music.PitchName pitch="125" name="Dop 26"/>
+<Music.PitchName pitch="126" name="Dop 27"/>
+<Music.PitchName pitch="127" name="Dop 28"/>
+</Music.PitchNameList>

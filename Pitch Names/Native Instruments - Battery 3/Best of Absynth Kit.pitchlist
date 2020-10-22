@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="---"/>
+<Music.PitchName pitch="25" name="---"/>
+<Music.PitchName pitch="26" name="---"/>
+<Music.PitchName pitch="27" name="---"/>
+<Music.PitchName pitch="28" name="---"/>
+<Music.PitchName pitch="29" name="---"/>
+<Music.PitchName pitch="30" name="---"/>
+<Music.PitchName pitch="31" name="---"/>
+<Music.PitchName pitch="32" name="---"/>
+<Music.PitchName pitch="33" name="---"/>
+<Music.PitchName pitch="34" name="---"/>
+<Music.PitchName pitch="35" name="---"/>
+<Music.PitchName pitch="36" name="Kick 1"/>
+<Music.PitchName pitch="37" name="Snap Rev"/>
+<Music.PitchName pitch="38" name="Snare 1"/>
+<Music.PitchName pitch="39" name="Clap 2"/>
+<Music.PitchName pitch="40" name="Snare 2"/>
+<Music.PitchName pitch="41" name="Low Tom 1"/>
+<Music.PitchName pitch="42" name="Closed HH 1"/>
+<Music.PitchName pitch="43" name="Mid Tom 1"/>
+<Music.PitchName pitch="44" name="Half HH 1"/>
+<Music.PitchName pitch="45" name="Mid Tom 2"/>
+<Music.PitchName pitch="46" name="Open HH 1"/>
+<Music.PitchName pitch="47" name="High Tom"/>
+<Music.PitchName pitch="48" name="Low Tom 2"/>
+<Music.PitchName pitch="49" name="Ring Rev"/>
+<Music.PitchName pitch="50" name="Perc Pling"/>
+<Music.PitchName pitch="51" name="Metal"/>
+<Music.PitchName pitch="52" name="Chord"/>
+<Music.PitchName pitch="53" name="Chime"/>
+<Music.PitchName pitch="54" name="Shaker"/>
+<Music.PitchName pitch="55" name="Tom Bend"/>
+<Music.PitchName pitch="56" name="Tom Metal 1"/>
+<Music.PitchName pitch="57" name="Tom Metal 2"/>
+<Music.PitchName pitch="58" name="Snare 2"/>
+<Music.PitchName pitch="59" name="Snare 3"/>
+<Music.PitchName pitch="60" name="Kick 2"/>
+<Music.PitchName pitch="61" name="Kick 3"/>
+<Music.PitchName pitch="62" name="Low Bongo"/>
+<Music.PitchName pitch="63" name="Snare 4"/>
+<Music.PitchName pitch="64" name="Hi Bongo"/>
+<Music.PitchName pitch="65" name="FX Blubber"/>
+<Music.PitchName pitch="66" name="Closed HH 2"/>
+<Music.PitchName pitch="67" name="FX Blirrr"/>
+<Music.PitchName pitch="68" name="Half HH 2"/>
+<Music.PitchName pitch="69" name="FX Chord 1"/>
+<Music.PitchName pitch="70" name="Open HH 2"/>
+<Music.PitchName pitch="71" name="FX Chord 2"/>
+<Music.PitchName pitch="72" name="Kick 4"/>
+<Music.PitchName pitch="73" name="Kick 5"/>
+<Music.PitchName pitch="74" name="Kick 6"/>
+<Music.PitchName pitch="75" name="Kick 7"/>
+<Music.PitchName pitch="76" name="Kick 8"/>
+<Music.PitchName pitch="77" name="Kick 9"/>
+<Music.PitchName pitch="78" name="Kick 10"/>
+<Music.PitchName pitch="79" name="Kick 11"/>
+<Music.PitchName pitch="80" name="Kick 12"/>
+<Music.PitchName pitch="81" name="Kick 13"/>
+<Music.PitchName pitch="82" name="Kick 14"/>
+<Music.PitchName pitch="83" name="Kick 15"/>
+<Music.PitchName pitch="84" name="FX Low Blast"/>
+<Music.PitchName pitch="85" name="FX Low Blast Echo"/>
+<Music.PitchName pitch="86" name="FX Elecslide"/>
+<Music.PitchName pitch="87" name="FX Pong Echo"/>
+<Music.PitchName pitch="88" name="FX Click 1"/>
+<Music.PitchName pitch="89" name="FX Click 2"/>
+<Music.PitchName pitch="90" name="Snare 5"/>
+<Music.PitchName pitch="91" name="Snare 6"/>
+<Music.PitchName pitch="92" name="Snare 7"/>
+<Music.PitchName pitch="93" name="Snare 8"/>
+<Music.PitchName pitch="94" name="Snare 9"/>
+<Music.PitchName pitch="95" name="Snare 10"/>
+<Music.PitchName pitch="96" name="Tom Metal 3"/>
+<Music.PitchName pitch="97" name="Whistle"/>
+<Music.PitchName pitch="98" name="Wood"/>
+<Music.PitchName pitch="99" name="Block"/>
+<Music.PitchName pitch="100" name="Drill"/>
+<Music.PitchName pitch="101" name="Geiger"/>
+<Music.PitchName pitch="102" name="Ring"/>
+<Music.PitchName pitch="103" name="Up"/>
+<Music.PitchName pitch="104" name="32nd"/>
+<Music.PitchName pitch="105" name="Glide"/>
+<Music.PitchName pitch="106" name="Random 1"/>
+<Music.PitchName pitch="107" name="Random 2 (up to C8)"/>
+<Music.PitchName pitch="108" name="---"/>
+<Music.PitchName pitch="109" name="---"/>
+<Music.PitchName pitch="110" name="---"/>
+<Music.PitchName pitch="111" name="---"/>
+<Music.PitchName pitch="112" name="---"/>
+<Music.PitchName pitch="113" name="---"/>
+<Music.PitchName pitch="114" name="---"/>
+<Music.PitchName pitch="115" name="---"/>
+<Music.PitchName pitch="116" name="---"/>
+<Music.PitchName pitch="117" name="---"/>
+<Music.PitchName pitch="118" name="---"/>
+<Music.PitchName pitch="119" name="---"/>
+<Music.PitchName pitch="120" name="---"/>
+<Music.PitchName pitch="121" name="---"/>
+<Music.PitchName pitch="122" name="---"/>
+<Music.PitchName pitch="123" name="---"/>
+<Music.PitchName pitch="124" name="---"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

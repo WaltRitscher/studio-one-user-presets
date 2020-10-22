@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList>
+	<Attributes pitch="24" name="4th Nots"/>
+	<Attributes pitch="25" name="8th Notes"/>
+	<Attributes pitch="26" name="16th Notes"/>
+	<Attributes pitch="27" name="Figure 1"/>
+	<Attributes pitch="28" name="Ending Notes"/>
+	<Attributes pitch="29" name="Ending Notes"/>
+	<Attributes pitch="30" name="Ending Notes"/>
+	<Attributes pitch="31" name="Ending Notes"/>
+	<Attributes pitch="33" name="Ending Notes"/>
+</Music.KeySwitchList>

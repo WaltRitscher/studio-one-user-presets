@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+<Music.PitchName pitch="0" name="---"/>
+<Music.PitchName pitch="1" name="---"/>
+<Music.PitchName pitch="2" name="---"/>
+<Music.PitchName pitch="3" name="---"/>
+<Music.PitchName pitch="4" name="---"/>
+<Music.PitchName pitch="5" name="---"/>
+<Music.PitchName pitch="6" name="---"/>
+<Music.PitchName pitch="7" name="---"/>
+<Music.PitchName pitch="8" name="---"/>
+<Music.PitchName pitch="9" name="---"/>
+<Music.PitchName pitch="10" name="---"/>
+<Music.PitchName pitch="11" name="---"/>
+<Music.PitchName pitch="12" name="---"/>
+<Music.PitchName pitch="13" name="---"/>
+<Music.PitchName pitch="14" name="---"/>
+<Music.PitchName pitch="15" name="---"/>
+<Music.PitchName pitch="16" name="---"/>
+<Music.PitchName pitch="17" name="---"/>
+<Music.PitchName pitch="18" name="---"/>
+<Music.PitchName pitch="19" name="---"/>
+<Music.PitchName pitch="20" name="---"/>
+<Music.PitchName pitch="21" name="---"/>
+<Music.PitchName pitch="22" name="---"/>
+<Music.PitchName pitch="23" name="---"/>
+<Music.PitchName pitch="24" name="---"/>
+<Music.PitchName pitch="25" name="---"/>
+<Music.PitchName pitch="26" name="---"/>
+<Music.PitchName pitch="27" name="---"/>
+<Music.PitchName pitch="28" name="---"/>
+<Music.PitchName pitch="29" name="---"/>
+<Music.PitchName pitch="30" name="---"/>
+<Music.PitchName pitch="31" name="---"/>
+<Music.PitchName pitch="32" name="---"/>
+<Music.PitchName pitch="33" name="---"/>
+<Music.PitchName pitch="34" name="---"/>
+<Music.PitchName pitch="35" name="---"/>
+<Music.PitchName pitch="36" name="Rav BD 1"/>
+<Music.PitchName pitch="37" name="Rav BD 2"/>
+<Music.PitchName pitch="38" name="Rav BD 3"/>
+<Music.PitchName pitch="39" name="Rav BD 4"/>
+<Music.PitchName pitch="40" name="Rav FX 1"/>
+<Music.PitchName pitch="41" name="Rav FX 2"/>
+<Music.PitchName pitch="42" name="Rav Noize"/>
+<Music.PitchName pitch="43" name="Rav Auh!"/>
+<Music.PitchName pitch="44" name="Rav Beep!"/>
+<Music.PitchName pitch="45" name="Rav Auh 2"/>
+<Music.PitchName pitch="46" name="Rav Beep 2"/>
+<Music.PitchName pitch="47" name="Rav Beep 2 alt"/>
+<Music.PitchName pitch="48" name="Bol BD 1"/>
+<Music.PitchName pitch="49" name="Bol BD 2"/>
+<Music.PitchName pitch="50" name="Bol Snare"/>
+<Music.PitchName pitch="51" name="Bol FX"/>
+<Music.PitchName pitch="52" name="Bol FX alt"/>
+<Music.PitchName pitch="53" name="Sun BD 1"/>
+<Music.PitchName pitch="54" name="Sun BD 2"/>
+<Music.PitchName pitch="55" name="Sun SN 1"/>
+<Music.PitchName pitch="56" name="Sun SN 2"/>
+<Music.PitchName pitch="57" name="Sun SN 3"/>
+<Music.PitchName pitch="58" name="Sun SN 4"/>
+<Music.PitchName pitch="59" name="Sun Drill"/>
+<Music.PitchName pitch="60" name="Hip BD 1"/>
+<Music.PitchName pitch="61" name="Hip BD 2"/>
+<Music.PitchName pitch="62" name="Hip Clap"/>
+<Music.PitchName pitch="63" name="Hip HH1"/>
+<Music.PitchName pitch="64" name="Hip HH 2"/>
+<Music.PitchName pitch="65" name="Hip OH"/>
+<Music.PitchName pitch="66" name="Hip SN"/>
+<Music.PitchName pitch="67" name="Dee BD"/>
+<Music.PitchName pitch="68" name="Dee BD alt"/>
+<Music.PitchName pitch="69" name="Ste BD 1"/>
+<Music.PitchName pitch="70" name="Ste BD 2"/>
+<Music.PitchName pitch="71" name="Ste BD 3"/>
+<Music.PitchName pitch="72" name="Woo BD 1"/>
+<Music.PitchName pitch="73" name="Woo BD 2"/>
+<Music.PitchName pitch="74" name="Woo BD 3"/>
+<Music.PitchName pitch="75" name="Woo SN 1"/>
+<Music.PitchName pitch="76" name="Woo SN 2"/>
+<Music.PitchName pitch="77" name="Woo SN 3"/>
+<Music.PitchName pitch="78" name="Woo FX"/>
+<Music.PitchName pitch="79" name="Woo HH 1"/>
+<Music.PitchName pitch="80" name="Woo HH 2"/>
+<Music.PitchName pitch="81" name="Swa Drill"/>
+<Music.PitchName pitch="82" name="Swa Drill alt"/>
+<Music.PitchName pitch="83" name="Swa Drill alt2"/>
+<Music.PitchName pitch="84" name="Swa BD"/>
+<Music.PitchName pitch="85" name="Swa Noiz 1"/>
+<Music.PitchName pitch="86" name="Swa Noiz 2"/>
+<Music.PitchName pitch="87" name="Swa Noiz 3"/>
+<Music.PitchName pitch="88" name="Swa Drill 2"/>
+<Music.PitchName pitch="89" name="Swa SN 1"/>
+<Music.PitchName pitch="90" name="Swa SN 2"/>
+<Music.PitchName pitch="91" name="Swa Clap 1"/>
+<Music.PitchName pitch="92" name="Swa Clap 2"/>
+<Music.PitchName pitch="93" name="Swa FX 1"/>
+<Music.PitchName pitch="94" name="Swa FX 2"/>
+<Music.PitchName pitch="95" name="Swa FX 3"/>
+<Music.PitchName pitch="96" name="Gra Clap 1"/>
+<Music.PitchName pitch="97" name="Gra Clap 2"/>
+<Music.PitchName pitch="98" name="Gra Noiz 1"/>
+<Music.PitchName pitch="99" name="Gra Noiz 2"/>
+<Music.PitchName pitch="100" name="Gra FX"/>
+<Music.PitchName pitch="101" name="Gra Drill"/>
+<Music.PitchName pitch="102" name="Gra SN 1"/>
+<Music.PitchName pitch="103" name="Gra Clap 1"/>
+<Music.PitchName pitch="104" name="Gra Clap 2"/>
+<Music.PitchName pitch="105" name="Gra Clap 3"/>
+<Music.PitchName pitch="106" name="Gra Clap 3 alt"/>
+<Music.PitchName pitch="107" name="&quot;apparat&quot;"/>
+<Music.PitchName pitch="108" name="---"/>
+<Music.PitchName pitch="109" name="---"/>
+<Music.PitchName pitch="110" name="---"/>
+<Music.PitchName pitch="111" name="---"/>
+<Music.PitchName pitch="112" name="---"/>
+<Music.PitchName pitch="113" name="---"/>
+<Music.PitchName pitch="114" name="---"/>
+<Music.PitchName pitch="115" name="---"/>
+<Music.PitchName pitch="116" name="---"/>
+<Music.PitchName pitch="117" name="---"/>
+<Music.PitchName pitch="118" name="---"/>
+<Music.PitchName pitch="119" name="---"/>
+<Music.PitchName pitch="120" name="---"/>
+<Music.PitchName pitch="121" name="---"/>
+<Music.PitchName pitch="122" name="---"/>
+<Music.PitchName pitch="123" name="---"/>
+<Music.PitchName pitch="124" name="---"/>
+<Music.PitchName pitch="125" name="---"/>
+<Music.PitchName pitch="126" name="---"/>
+<Music.PitchName pitch="127" name="---"/>
+</Music.PitchNameList>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="35" name="Acoustic Bass Drum"/>
+	<Music.PitchName pitch="36" name="Bass Drum"/>
+	<Music.PitchName pitch="37" name="Side Stick"/>
+	<Music.PitchName pitch="38" name="Acoustic Snare"/>
+	<Music.PitchName pitch="39" name="Hand Clap"/>
+	<Music.PitchName pitch="40" name="Electric Snare"/>
+	<Music.PitchName pitch="41" name="Low Floor Tom"/>
+	<Music.PitchName pitch="42" name="Closed HiHat"/>
+	<Music.PitchName pitch="43" name="High Floor Tom"/>
+	<Music.PitchName pitch="44" name="Pedal HiHat"/>
+	<Music.PitchName pitch="45" name="Low Tom"/>
+	<Music.PitchName pitch="46" name="Open HiHat"/>
+	<Music.PitchName pitch="47" name="Low Middle Tom"/>
+	<Music.PitchName pitch="48" name="High Middle Tom"/>
+	<Music.PitchName pitch="49" name="Crash Cymbal 1"/>
+	<Music.PitchName pitch="50" name="High Tom"/>
+	<Music.PitchName pitch="51" name="Ride Cymbal 1"/>
+	<Music.PitchName pitch="52" name="Chinese Cymbal"/>
+	<Music.PitchName pitch="53" name="Ride Bell"/>
+	<Music.PitchName pitch="54" name="Tambourine"/>
+	<Music.PitchName pitch="55" name="Splash Cymbal"/>
+	<Music.PitchName pitch="56" name="Cowbell"/>
+	<Music.PitchName pitch="57" name="Crash Cymbal 2"/>
+	<Music.PitchName pitch="58" name="Vibraslap"/>
+	<Music.PitchName pitch="59" name="Ride Cymbal 2"/>
+	<Music.PitchName pitch="60" name="High Bongo"/>
+	<Music.PitchName pitch="61" name="Low Bongo"/>
+	<Music.PitchName pitch="62" name="Mute High Conga"/>
+	<Music.PitchName pitch="63" name="Open High Conga"/>
+	<Music.PitchName pitch="64" name="Low Conga"/>
+	<Music.PitchName pitch="65" name="High Timbale"/>
+	<Music.PitchName pitch="66" name="Low Timbale"/>
+	<Music.PitchName pitch="67" name="High Agogo"/>
+	<Music.PitchName pitch="68" name="Low Agogo"/>
+	<Music.PitchName pitch="69" name="Cabasa"/>
+	<Music.PitchName pitch="70" name="Maracas"/>
+	<Music.PitchName pitch="71" name="Short Whistle"/>
+	<Music.PitchName pitch="72" name="Long Whistle"/>
+	<Music.PitchName pitch="73" name="Short Guiro"/>
+	<Music.PitchName pitch="74" name="Long Guiro"/>
+	<Music.PitchName pitch="75" name="Claves"/>
+	<Music.PitchName pitch="76" name="High Wood Block"/>
+	<Music.PitchName pitch="77" name="Low Wood Block"/>
+	<Music.PitchName pitch="78" name="Mute Cuica"/>
+	<Music.PitchName pitch="79" name="Open Cuica"/>
+	<Music.PitchName pitch="80" name="Mute Triangle"/>
+	<Music.PitchName pitch="81" name="Open Triangle"/>
+</Music.PitchNameList>

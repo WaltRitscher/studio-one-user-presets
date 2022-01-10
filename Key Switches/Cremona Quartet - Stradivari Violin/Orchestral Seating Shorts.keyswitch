@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Orchestral Seating Shorts" target.class="5653544E694B4B6B6F6D706C65746520">
+	<Attributes name="Sautille Single" color="FFD06EBC" id="2" pitch="36" activation="note36"/>
+	<Attributes name="Spiccatissimo" color="FFC42E7B" id="3" pitch="38" activation="note38"/>
+	<Attributes name="Spiccato" color="FFCDE700" id="4" pitch="40" activation="note40"/>
+	<Attributes name="Staccato" color="FFA5FF66" id="5" pitch="41" activation="note41"/>
+	<Attributes name="Pizzicato" color="FF96FFA6" id="6" pitch="43" activation="note43"/>
+	<Attributes name="Col Legno" color="FF12FF8D" id="7" pitch="45" activation="note45"/>
+	<Attributes name="Sautille" color="FFDD6105" id="0" pitch="47" activation="note47"/>
+	<Attributes name="Ricochet" color="FFD89D00" id="1" pitch="48" activation="note48"/>
+</Music.KeySwitchList>

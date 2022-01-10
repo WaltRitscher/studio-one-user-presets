@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- PreSonus Studio One 
+    * Pitchname file                                                     
+    * preset : EZDrummer EDX Americana (Sorted by Note Number)                                                                    
+    * author : walt ritscher                              
+    * artist : hummingstone  
+
+    Note: Studio One (and Yamaha/Steinberg) designates C3 for Middle C (Midi note 60)       
+          while other DAWS and MIDI hardware designate C3 for Middle C.  
+          https://www.reddit.com/r/StudioOne/comments/m0seeq/change_middle_c_in_the_piano_roll_to_c4/                     
+ -->
+
+<Music.PitchNameList title="Americana - Sorted">
+	<Music.PitchName pitch="1" name="Claps" color="FFD06EBC" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="2" name="Shaker" color="FFD06EBC" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="3" name="Tamborine" color="FFD06EBC" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="54" name="Perc - Hit" color="FFD06EBC" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="20" name="HH - CC Variable" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="21" name="HH - Closed Pedal" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="22" name="HH - Closed Edge" color="FFFFFF05" scorePitch="91" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="23" name="HH - Open Pedal" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="33" name="Snare - Edge" color="FF00E0FB" scorePitch="72" flags="hide"/>
+	<Music.PitchName pitch="35" name="Kick - Open" color="FF0D0DFF" scorePitch="64" flags="hide"/>
+	<Music.PitchName pitch="24" name="HH - Open 1" color="FFFFFF05" scorePitch="93" notehead="nhdX" flags="hide"/>
+	<Music.PitchName pitch="25" name="HH - Open 2" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="26" name="HH - Open 3" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="36" name="Kick - Hit" color="FF0D0DFF" scorePitch="65" flags="hide"/>
+	<Music.PitchName pitch="37" name="Snare - Side Stick" color="FF00E0FB" scorePitch="72" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="38" name="Snare - Center" color="FF00E0FB" scorePitch="72" flags="hide"/>
+	<Music.PitchName pitch="39" name="Snare - Ruff" color="FF00E0FB" scorePitch="72" flags="hide"/>
+	<Music.PitchName pitch="40" name="Snare - Rimshot" color="FF00E0FB" scorePitch="72" notehead="nhSl"
+	                 flags="hide"/>
+	<Music.PitchName pitch="42" name="HH{GM} - Closed" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="43" name="Floortom - Center" color="FF2FB1FF" scorePitch="71" flags="hide"/>
+	<Music.PitchName pitch="44" name="HH{GM} - Pedal" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="46" name="HH{GM} - Open" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="48" name="Racktom - Center" color="FF2FB1FF" scorePitch="77" flags="hide"/>
+	<Music.PitchName pitch="49" name="Cymbal 1 - Crashed" color="FF04A104" scorePitch="81" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="50" name="Cymbal 1 - Muted" color="FF04A104" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="51" name="Ride - Bow Tip" color="FF04E2BE" scorePitch="77" notehead="nhdX" flags="hide"/>
+	<Music.PitchName pitch="52" name="Ride - Bow Shank" color="FF04E2BE" scorePitch="77" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="53" name="Ride - Bell" color="FF04E2BE" scorePitch="77" notehead="nhDi" flags="hide"/>
+	<Music.PitchName pitch="56" name="HH - Open Bell 3" color="FFFFFF05" scorePitch="93" notehead="nhDi"
+	                 flags="hide"/>
+	<Music.PitchName pitch="57" name="Cymbal 2 - Crashed" color="FF04A104" scorePitch="83" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="58" name="Cymbal 2 - Muted" color="FF04A104" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="59" name="Ride - Edge" color="FF04E2BE" scorePitch="77" notehead="nhdX" flags="hide"/>
+	<Music.PitchName pitch="60" name="HH - Open Max" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="61" name="HH - Closed Tip" color="FFFFFF05" scorePitch="89" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="62" name="HH - Tight Edge" color="FFFFFF05" scorePitch="88" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="63" name="HH - Tight Tip" color="FFFFFF05" scorePitch="86" notehead="nhdX" flags="hide"/>
+	<Music.PitchName pitch="64" name="HH - Open Min" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="65" name="HH - Seq Hits" color="FFFFFF05" scorePitch="93" flags="hide"/>
+	<Music.PitchName pitch="68" name="Snare - Muted" color="FF00E0FB" scorePitch="72" flags="hide"/>
+	<Music.PitchName pitch="69" name="Snare - Flams" color="FF00E0FB" scorePitch="72" flags="hide"/>
+	<Music.PitchName pitch="70" name="Snare - Muted Rim" color="FF00E0FB" scorePitch="72" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="71" name="Snare - Rim Only" color="FF00E0FB" scorePitch="72" notehead="nhdX"
+	                 flags="hide"/>
+	<Music.PitchName pitch="74" name="Floortom - Rim Only" color="FF2FB1FF" scorePitch="69" flags="hide"/>
+	<Music.PitchName pitch="75" name="Floortom - Rimshot" color="FF2FB1FF" scorePitch="67" flags="hide"/>
+	<Music.PitchName pitch="79" name="Racktom - Rim Only" color="FF2FB1FF" scorePitch="76" flags="hide"/>
+	<Music.PitchName pitch="80" name="Racktom - Rimshot" color="FF2FB1FF" scorePitch="74" flags="hide"/>
+	<Music.PitchName pitch="117" name="Ride - Bell Tip" color="FF04E2BE" scorePitch="77" notehead="nhDi"
+	                 flags="hide"/>
+	<Music.PitchName pitch="118" name="Ride - Muted" color="FF04E2BE" scorePitch="77" notehead="nhdX" flags="hide"/>
+	<Music.PitchName pitch="119" name="HH - Closed Bell" color="FFFFFF05" scorePitch="93" notehead="nhDi"
+	                 flags="hide"/>
+	<Music.PitchName pitch="121" name="HH - Open Bell 2" color="FFFFFF05" scorePitch="93" notehead="nhDi"
+	                 flags="hide"/>
+	<Music.PitchName pitch="120" name="HH - Open Bell 1" color="FFFFFF05" scorePitch="93" notehead="nhDi"
+	                 flags="hide"/>
+	<Music.PitchName pitch="0" flags="hide"/>
+	<Music.PitchName pitch="4" flags="hide"/>
+	<Music.PitchName pitch="5" flags="hide"/>
+	<Music.PitchName pitch="6" flags="hide"/>
+	<Music.PitchName pitch="7" flags="hide"/>
+	<Music.PitchName pitch="8" flags="hide"/>
+	<Music.PitchName pitch="9" flags="hide"/>
+	<Music.PitchName pitch="10" flags="hide"/>
+	<Music.PitchName pitch="11" flags="hide"/>
+	<Music.PitchName pitch="12" flags="hide"/>
+	<Music.PitchName pitch="13" flags="hide"/>
+	<Music.PitchName pitch="14" flags="hide"/>
+	<Music.PitchName pitch="15" flags="hide"/>
+	<Music.PitchName pitch="16" flags="hide"/>
+	<Music.PitchName pitch="17" flags="hide"/>
+	<Music.PitchName pitch="18" flags="hide"/>
+	<Music.PitchName pitch="19" flags="hide"/>
+	<Music.PitchName pitch="27" flags="hide"/>
+	<Music.PitchName pitch="28" flags="hide"/>
+	<Music.PitchName pitch="29" flags="hide"/>
+	<Music.PitchName pitch="30" flags="hide"/>
+	<Music.PitchName pitch="31" flags="hide"/>
+	<Music.PitchName pitch="32" flags="hide"/>
+	<Music.PitchName pitch="34" flags="hide"/>
+	<Music.PitchName pitch="41" flags="hide"/>
+	<Music.PitchName pitch="45" flags="hide"/>
+	<Music.PitchName pitch="47" flags="hide"/>
+	<Music.PitchName pitch="55" flags="hide"/>
+	<Music.PitchName pitch="66" flags="hide"/>
+	<Music.PitchName pitch="67" flags="hide"/>
+	<Music.PitchName pitch="72" flags="hide"/>
+	<Music.PitchName pitch="73" flags="hide"/>
+	<Music.PitchName pitch="76" flags="hide"/>
+	<Music.PitchName pitch="77" flags="hide"/>
+	<Music.PitchName pitch="78" flags="hide"/>
+	<Music.PitchName pitch="81" flags="hide"/>
+	<Music.PitchName pitch="82" flags="hide"/>
+	<Music.PitchName pitch="83" flags="hide"/>
+	<Music.PitchName pitch="84" flags="hide"/>
+	<Music.PitchName pitch="85" flags="hide"/>
+	<Music.PitchName pitch="86" flags="hide"/>
+	<Music.PitchName pitch="87" flags="hide"/>
+	<Music.PitchName pitch="88" flags="hide"/>
+	<Music.PitchName pitch="89" flags="hide"/>
+	<Music.PitchName pitch="90" flags="hide"/>
+	<Music.PitchName pitch="91" flags="hide"/>
+	<Music.PitchName pitch="92" flags="hide"/>
+	<Music.PitchName pitch="93" flags="hide"/>
+	<Music.PitchName pitch="94" flags="hide"/>
+	<Music.PitchName pitch="95" flags="hide"/>
+	<Music.PitchName pitch="96" flags="hide"/>
+	<Music.PitchName pitch="97" flags="hide"/>
+	<Music.PitchName pitch="98" flags="hide"/>
+	<Music.PitchName pitch="99" flags="hide"/>
+	<Music.PitchName pitch="100" flags="hide"/>
+	<Music.PitchName pitch="101" flags="hide"/>
+	<Music.PitchName pitch="102" flags="hide"/>
+	<Music.PitchName pitch="103" flags="hide"/>
+	<Music.PitchName pitch="104" flags="hide"/>
+	<Music.PitchName pitch="105" flags="hide"/>
+	<Music.PitchName pitch="106" flags="hide"/>
+	<Music.PitchName pitch="107" flags="hide"/>
+	<Music.PitchName pitch="108" flags="hide"/>
+	<Music.PitchName pitch="109" flags="hide"/>
+	<Music.PitchName pitch="110" flags="hide"/>
+	<Music.PitchName pitch="111" flags="hide"/>
+	<Music.PitchName pitch="112" flags="hide"/>
+	<Music.PitchName pitch="113" flags="hide"/>
+	<Music.PitchName pitch="114" flags="hide"/>
+	<Music.PitchName pitch="115" flags="hide"/>
+	<Music.PitchName pitch="116" flags="hide"/>
+	<Music.PitchName pitch="122" flags="hide"/>
+	<Music.PitchName pitch="123" flags="hide"/>
+	<Music.PitchName pitch="124" flags="hide"/>
+	<Music.PitchName pitch="125" flags="hide"/>
+	<Music.PitchName pitch="126" flags="hide"/>
+	<Music.PitchName pitch="127" flags="hide"/>
+</Music.PitchNameList>

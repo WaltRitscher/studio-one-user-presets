@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Session Horns">
+	<Attributes pitch="12" name="Non Vibrato"/>
+	<Attributes pitch="13" name="Vibrato"/>
+	<Attributes pitch="14" name="FoPiCre 2Beat"/>
+	<Attributes pitch="15" name="Grace"/>
+	<Attributes pitch="16" name="Grace Vibrato"/>
+	<Attributes pitch="17" name="Non Vibrato"/>
+	<Attributes pitch="18" name="Staccato"/>
+	<Attributes pitch="19" name="Rips"/>
+	<Attributes pitch="20" name="Empts"/>
+</Music.KeySwitchList>

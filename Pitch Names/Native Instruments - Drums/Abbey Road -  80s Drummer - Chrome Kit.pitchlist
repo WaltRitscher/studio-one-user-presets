@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- PreSonus Studio One -->
+<!-- Preset: Abbey Road 80s Drummer Chrome Kit Default Mapping -->
+
+<!-- plug-in: Kontakt ABBEY ROAD | 80s Drummer -->
+<!-- vendor: Native Instruments -->
+<!-- author: Walt Ritscher -->
+
+
+<Music.PitchNameList>
+<Music.PitchName pitch="14" name="Octoban [1]" />
+<Music.PitchName pitch="15" name="Octoban [2]" />
+<Music.PitchName pitch="16" name="Octoban [3]" />
+<Music.PitchName pitch="17" name="Octoban [4]" />
+<Music.PitchName pitch="18" name="Octoban [5]" />
+<Music.PitchName pitch="19" name="Octoban [6]" />
+<Music.PitchName pitch="20" name="Octoban [7]" />
+<Music.PitchName pitch="21" name="Octoban [8]" />
+<Music.PitchName pitch="22" name="Crash-High [Choke]" />
+<Music.PitchName pitch="23" name="Ride-Cymbal [Choke]" />
+<Music.PitchName pitch="24" name="Crash-Low [Choke]" />
+<Music.PitchName pitch="25" name="China-Cymbal [Choke]" />
+<Music.PitchName pitch="26" name="Splash-Cymbal [Choke]" />
+<Music.PitchName pitch="27" name="Timbale [Low Center]" />
+<Music.PitchName pitch="28" name="Timbale [Low Rimshot]" />
+<Music.PitchName pitch="29" name="Timbale [Low Shell]" />
+<Music.PitchName pitch="30" name="Timbale [High Center]" />
+<Music.PitchName pitch="31" name="Timbale [High Rimshot]" />
+<Music.PitchName pitch="32" name="Timbale [High Shell]" />
+<Music.PitchName pitch="33" name="Clap [Solo]" />
+<Music.PitchName pitch="34" name="Clap [Multi]" />
+<Music.PitchName pitch="35" name="Stick [Hit]" />
+<Music.PitchName pitch="36" name="Kick [Dampened]" />
+<Music.PitchName pitch="37" name="Snare [Sidestick]" />
+<Music.PitchName pitch="38" name="Snare [Center R/L Alt]" />
+<Music.PitchName pitch="39" name="Snare [Rimshot]" />
+<Music.PitchName pitch="40" name="Snare [Halfway R/L Alt]" />
+<Music.PitchName pitch="41" name="Tom-Floor-Low [Center R/L Alt]" />
+<Music.PitchName pitch="42" name="Hat [Closed Tip R/L Alt]" />
+<Music.PitchName pitch="43" name="Hat [Closed Pedal]" />
+<Music.PitchName pitch="43" name="Tom-Floor-High [Center R/L Alt]" />
+<Music.PitchName pitch="45" name="Tom-Low [Center R/L Alt]" />
+<Music.PitchName pitch="46" name="Hat [Open Controller **]" />
+<Music.PitchName pitch="47" name="Tom-High [Center R/L Alt]" />
+<Music.PitchName pitch="48" name="Crash-High [Tip]" />
+<Music.PitchName pitch="49" name="Crash-High [Edge]" />
+<Music.PitchName pitch="50" name="Crash-High [Bell]" />
+<Music.PitchName pitch="51" name="Ride-Cymbal [Tip]" />
+<Music.PitchName pitch="52" name="Ride-Cymbal [Edge]" />
+<Music.PitchName pitch="53" name="Ride-Cymbal [Bell]" />
+<Music.PitchName pitch="54" name="Crash-Low [Tip]" />
+<Music.PitchName pitch="55" name="Crash-Low [Edge]" />
+<Music.PitchName pitch="56" name="Crash-Low [Bell]" />
+<Music.PitchName pitch="57" name="China-Cymbal [Edge]" />
+<Music.PitchName pitch="58" name="China-Cymbal [Tip]" />
+<Music.PitchName pitch="59" name="Splash-Cymbal [Edge]" />
+<Music.PitchName pitch="60" name="Kick [Open]" />
+<Music.PitchName pitch="61" name="Snare [Rim Only]" />
+<Music.PitchName pitch="62" name="Snare [Flam]" />
+<Music.PitchName pitch="63" name="Snare [Roll]" />
+<Music.PitchName pitch="64" name="Snare [Wires Off]" />
+<Music.PitchName pitch="65" name="Tom-Floor-Low [Rimshot]" />
+<Music.PitchName pitch="66" name="Hat [Closed Tight Tip R/L Alt]" />
+<Music.PitchName pitch="67" name="Tom-Floor-High [Rimshot]" />
+<Music.PitchName pitch="68" name="Hat [Closed Shank R/L Alt]" />
+<Music.PitchName pitch="69" name="Tom-Low [Rimshot]" />
+<Music.PitchName pitch="70" name="Hat [Open Pedal]" />
+<Music.PitchName pitch="71" name="Tom-High [Rimshot]" />
+<Music.PitchName pitch="72" name="Tom-Floor-Low [Rim Only]" />
+<Music.PitchName pitch="73" name="Tom-Floor-High [Rim Only]" />
+<Music.PitchName pitch="74" name="Tom-Low [Rim Only]" />
+<Music.PitchName pitch="75" name="Tom-High [Rim Only]" />
+<Music.PitchName pitch="76" name="Hat [Open Quarter]" />
+<Music.PitchName pitch="77" name="Hat [Open Half]" />
+<Music.PitchName pitch="78" name="Hat [Open Three-Quarters]" />
+<Music.PitchName pitch="79" name="Hat [Open Loose]" />
+<Music.PitchName pitch="80" name="Hat [Open Full]" />
+<Music.PitchName pitch="81" name="Snare [Center L Hand]" />
+<Music.PitchName pitch="82" name="Kick [Half Open]" />
+<Music.PitchName pitch="83" name="Snare [Center R Hand]" />
+<Music.PitchName pitch="84" name="Snare [Halfway L Hand]" />
+<Music.PitchName pitch="85" name="Hat [Closed Tight Tip L Hand]" />
+<Music.PitchName pitch="86" name="Snare [Halfway R Hand]" />
+<Music.PitchName pitch="87" name="Hat [Closed Tight Tip R Hand]" />
+<Music.PitchName pitch="88" name="Tom-Floor-Low [Center L Hand]" />
+<Music.PitchName pitch="89" name="Tom-Floor-Low [Center R Hand]" />
+<Music.PitchName pitch="90" name="Hat [Closed Tip L Hand]" />
+<Music.PitchName pitch="91" name="Tom-Floor-High [Center L Hand]" />
+<Music.PitchName pitch="92" name="Hat [Closed Tip R Hand]" />
+<Music.PitchName pitch="93" name="Tom-Floor-High [Center R Hand]" />
+<Music.PitchName pitch="94" name="Hat [Closed Shank L Hand]" />
+<Music.PitchName pitch="95" name="Tom-Low [Center L Hand]" />
+<Music.PitchName pitch="96" name="Tom-Low [Center R Hand]" />
+<Music.PitchName pitch="97" name="Hat [Closed Shank R Hand]" />
+<Music.PitchName pitch="98" name="Tom-High [Center L Hand]" />
+<Music.PitchName pitch="100" name="Tom-High [Center R Hand]" />
+<Music.PitchName pitch="101" name="Snare [Skin On Skin]" />
+<Music.PitchName pitch="102" name="Tom-Floor-Low [Skin On Skin]" />
+<Music.PitchName pitch="103" name="Tom-Floor-High [Skin On Skin]" />
+<Music.PitchName pitch="104" name="Tom-Low [Skin On Skin]" />
+<Music.PitchName pitch="105" name="Tom-High [Skin On Skin]" />
+<Music.PitchName pitch="106" name="Cowbell [Low Open]" />
+<Music.PitchName pitch="107" name="Cowbell [Low Muted]" />
+<Music.PitchName pitch="108" name="Cowbell [High Open]" />
+<Music.PitchName pitch="109" name="Cowbell [High Muted]" />
+
+
+
+</Music.PitchNameList>

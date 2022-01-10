@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Electric Sunburst Pure Patterns " target.class="5653544E694B4B6B6F6D706C65746520">
+	<Attributes name="Open" color="FFDD6105" id="36" pitch="36" activation="note36"/>
+	<Attributes name="Muted" color="FFD89D00" id="37" pitch="37" activation="note37"/>
+	<Attributes name="Flageolet" color="FFE9C400" id="38" pitch="38" activation="note38"/>
+	<Attributes name="Tremolo" color="FFFFFF05" id="39" pitch="39" activation="note39"/>
+	<Attributes name="Pattern: Reverse Score A" color="FFCDE700" id="40" pitch="40" activation="note40"/>
+	<Attributes name="Pattern: Reverse Score B" color="FFA5FF66" id="41" pitch="41" activation="note41"/>
+	<Attributes name="Pattern: Reverse Score C" color="FF96FFA6" id="42" pitch="42" activation="note42"/>
+	<Attributes name="Pattern: Reverse Score D" color="FF12FF8D" id="43" pitch="43" activation="note43"/>
+	<Attributes name="Ending: Long" color="FF04FFE1" id="44" pitch="44" activation="note44"/>
+	<Attributes name="Ending: Slide Down" color="FF8D56FF" id="45" pitch="45" activation="note45"/>
+	<Attributes name="Ending: Mute Strings" color="FF5C00FF" id="46" pitch="46" activation="note46"/>
+	<Attributes name="Slide down" color="FFFFBE0D" id="47" pitch="47" activation="note47"/>
+</Music.KeySwitchList>

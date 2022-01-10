@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- PreSonus Studio One 
+    * Pitchname file                                                     
+    * preset : Note Names and Numbers                                                                    
+    * author : walt ritscher                              
+    * artist  : hummingstone  
+
+    Note: Studio One (and Yamaha/Steinberg) designates C3 for Middle C (Midi note 60)       
+          while other DAWS and MIDI hardware designate C3 for Middle C.  
+          https://www.reddit.com/r/StudioOne/comments/m0seeq/change_middle_c_in_the_piano_roll_to_c4/                     
+ -->
+
+<!-- -->
+
+<Music.PitchNameList>
+
+<!-- C7 .. G7 (Studio One standard)-->
+  <Music.PitchName pitch="127" name="127 ( G )"/>
+  <Music.PitchName pitch="126" name="126 ( F# )"/>
+  <Music.PitchName pitch="125" name="125 ( F )"/>
+  <Music.PitchName pitch="124" name="124 ( E )"/>
+  <Music.PitchName pitch="123" name="123 ( D# )"/>
+  <Music.PitchName pitch="122" name="122 ( D )"/>
+  <Music.PitchName pitch="121" name="121 ( C# )"/>
+  <Music.PitchName pitch="120" name="120 ( C )"/>
+
+  <!-- C7 .. B7 -->
+  <Music.PitchName pitch="119" name="119 ( B )"/>
+  <Music.PitchName pitch="118" name="118 ( A# )"/>
+  <Music.PitchName pitch="117" name="117 ( A )"/>
+  <Music.PitchName pitch="116" name="116 ( G# )"/>
+  <Music.PitchName pitch="115" name="115 ( G )"/>
+  <Music.PitchName pitch="114" name="114 ( F# )"/>
+  <Music.PitchName pitch="113" name="113 ( F )"/>
+  <Music.PitchName pitch="112" name="112 ( E )"/>
+  <Music.PitchName pitch="111" name="111 ( D# )"/>
+  <Music.PitchName pitch="110" name="110 ( D )"/>
+  <Music.PitchName pitch="109" name="109 ( C# )"/>
+  <Music.PitchName pitch="108" name="108 ( C )"/>
+
+
+ <!-- C6 .. B6 -->
+  <Music.PitchName pitch="107" name="107 ( B )"/>
+  <Music.PitchName pitch="106" name="106 ( A# )"/>
+  <Music.PitchName pitch="105" name="105 ( A )"/>
+  <Music.PitchName pitch="104" name="104 ( G# )"/>
+  <Music.PitchName pitch="103" name="103 ( G )"/>
+  <Music.PitchName pitch="102" name="102 ( F# )"/>
+  <Music.PitchName pitch="101" name="101 ( F )"/>
+  <Music.PitchName pitch="100" name="100 ( E )"/>
+  <Music.PitchName pitch="99" name="99 ( D# )"/>
+  <Music.PitchName pitch="98" name="98 ( D )"/>
+  <Music.PitchName pitch="97" name="97 ( C# )"/>
+  <Music.PitchName pitch="96" name="96 ( C )"/>
+
+<!-- C5 .. B5 -->
+  <Music.PitchName pitch="95" name="95 ( B )"/>
+  <Music.PitchName pitch="94" name="94 ( A# )"/>
+  <Music.PitchName pitch="93" name="93 ( A )"/>
+  <Music.PitchName pitch="92" name="92 ( G# )"/>
+  <Music.PitchName pitch="91" name="91 ( G )"/>
+  <Music.PitchName pitch="90" name="90 ( F# )"/>
+  <Music.PitchName pitch="89" name="89 ( F )"/>
+  <Music.PitchName pitch="88" name="88 ( E )"/>
+  <Music.PitchName pitch="87" name="87 ( D# )"/>
+  <Music.PitchName pitch="86" name="86 ( D )"/>
+  <Music.PitchName pitch="85" name="85 ( C# )"/>
+  <Music.PitchName pitch="84" name="84 ( C )"/>
+
+<!-- C4 .. B4 -->
+  <Music.PitchName pitch="82" name="82 ( B )"/>
+  <Music.PitchName pitch="83" name="83 ( A# )"/>
+  <Music.PitchName pitch="81" name="81 ( A )"/>
+  <Music.PitchName pitch="80" name="80 ( G# )"/>
+  <Music.PitchName pitch="79" name="79 ( G )"/>
+  <Music.PitchName pitch="78" name="78 ( F# )"/>
+  <Music.PitchName pitch="77" name="77 ( F )"/>
+  <Music.PitchName pitch="76" name="76 ( E )"/>
+  <Music.PitchName pitch="75" name="75 ( D# )"/>
+  <Music.PitchName pitch="74" name="74 ( D )"/>
+  <Music.PitchName pitch="73" name="73 ( C# )"/>
+  <Music.PitchName pitch="72" name="72 ( C )"/>
+
+<!-- C3 .. B3 -->
+  <Music.PitchName pitch="71" name="71 ( B )"/>
+  <Music.PitchName pitch="70" name="70 ( A# )"/>
+  <Music.PitchName pitch="69" name="69 ( A )"/>
+  <Music.PitchName pitch="68" name="68 ( G# )"/>
+  <Music.PitchName pitch="67" name="67 ( G )"/>
+  <Music.PitchName pitch="66" name="66 ( F# )"/>
+  <Music.PitchName pitch="65" name="65 ( F )"/>
+  <Music.PitchName pitch="64" name="64 ( E )"/>
+  <Music.PitchName pitch="63" name="63 ( D# )"/>
+  <Music.PitchName pitch="62" name="62 ( D )"/>
+  <Music.PitchName pitch="61" name="61 ( C# )"/>
+  <Music.PitchName pitch="60" name="60 ( C )"/>
+
+<!-- C2 .. B2 -->
+  <Music.PitchName pitch="59" name="59 ( B )"/>
+  <Music.PitchName pitch="58" name="58 ( A# )"/>
+  <Music.PitchName pitch="57" name="57 ( A )"/>
+  <Music.PitchName pitch="56" name="56 ( G# )"/>
+  <Music.PitchName pitch="55" name="55 ( G )"/>
+  <Music.PitchName pitch="54" name="54 ( F# )"/>
+  <Music.PitchName pitch="53" name="53 ( F )"/>
+  <Music.PitchName pitch="52" name="52 ( E )"/>
+  <Music.PitchName pitch="51" name="51 ( D# )"/>
+  <Music.PitchName pitch="50" name="50 ( D )"/>
+  <Music.PitchName pitch="49" name="49 ( C# )"/>
+  <Music.PitchName pitch="48" name="48 ( C )"/>
+
+<!-- C1 .. B1 -->
+  <Music.PitchName pitch="47" name="47 ( B )"/>
+  <Music.PitchName pitch="46" name="46 ( A# )"/>
+  <Music.PitchName pitch="45" name="45 ( A )"/>
+  <Music.PitchName pitch="44" name="44 ( G# )"/>
+  <Music.PitchName pitch="43" name="43 ( G )"/>
+  <Music.PitchName pitch="42" name="42 ( F# )"/>
+  <Music.PitchName pitch="41" name="41 ( F )"/>
+  <Music.PitchName pitch="40" name="40 ( E )"/>
+  <Music.PitchName pitch="39" name="39 ( D# )"/>
+  <Music.PitchName pitch="38" name="38 ( D )"/>
+  <Music.PitchName pitch="37" name="37 ( C# )"/>
+  <Music.PitchName pitch="36" name="36 ( C )"/>
+
+<!-- C0 .. B0 -->
+  <Music.PitchName pitch="35" name="35 ( B )"/>
+  <Music.PitchName pitch="34" name="34 ( A# "/>
+  <Music.PitchName pitch="33" name="33 ( A )"/>
+  <Music.PitchName pitch="32" name="32 ( G# "/>
+  <Music.PitchName pitch="31" name="31 ( G )"/>
+  <Music.PitchName pitch="30" name="30 ( F# "/>
+  <Music.PitchName pitch="29" name="29 ( F )"/>
+  <Music.PitchName pitch="28" name="28 ( E )"/>
+  <Music.PitchName pitch="27" name="27 ( D# "/>
+  <Music.PitchName pitch="26" name="26 ( D )"/>
+  <Music.PitchName pitch="25" name="25 ( C# "/>
+  <Music.PitchName pitch="24" name="24 ( C )"/>
+
+<!-- C-1 .. B-1 -->
+  <Music.PitchName pitch="23" name="23 ( B )"/>
+  <Music.PitchName pitch="22" name="22 ( A# "/>
+  <Music.PitchName pitch="21" name="21 ( A )"/>
+  <Music.PitchName pitch="20" name="20 ( G# "/>
+  <Music.PitchName pitch="19" name="19 ( G )"/>
+  <Music.PitchName pitch="18" name="18 ( F# "/>
+  <Music.PitchName pitch="17" name="17 ( F )"/>
+  <Music.PitchName pitch="16" name="16 ( E )"/>
+  <Music.PitchName pitch="15" name="15 ( D# "/>
+  <Music.PitchName pitch="14" name="14 ( D )"/>
+  <Music.PitchName pitch="13" name="13 ( C# "/>
+  <Music.PitchName pitch="12" name="12 ( C )"/>
+
+<!-- C-2 .. B-2 -->
+  <Music.PitchName pitch="11" name="11 ( B )"/>
+  <Music.PitchName pitch="10" name="10 ( A# "/>
+  <Music.PitchName pitch="9"  name="09 ( A )"/>
+  <Music.PitchName pitch="8"  name="08 ( G# "/>
+  <Music.PitchName pitch="7"  name="07 ( G )"/>
+  <Music.PitchName pitch="6"  name="06 ( F# "/>
+  <Music.PitchName pitch="5"  name="05 ( F )"/>
+  <Music.PitchName pitch="4"  name="04 ( E )"/>
+  <Music.PitchName pitch="3"  name="03 ( D# "/>
+  <Music.PitchName pitch="2"  name="02 ( D )"/>
+  <Music.PitchName pitch="1"  name="01 ( C# "/>
+  <Music.PitchName pitch="0"  name="00 ( C )"/>
+
+</Music.PitchNameList>

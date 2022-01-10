@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Electric Sunburst Pure Patterns" target.class="5653544E694B4B6B6F6D706C65746520">
+	<Attributes name="Pure A" color="FFDD6105" id="36" pitch="36" activation="note36"/>
+	<Attributes name="Pure B" color="FFD89D00" id="37" pitch="37" activation="note37"/>
+	<Attributes name="Pure C" color="FFE9C400" id="38" pitch="38" activation="note38"/>
+	<Attributes name="Pure D" color="FFFFFF05" id="39" pitch="39" activation="note39"/>
+	<Attributes name="Ending: Long" color="FF04FFE1" id="44" pitch="44" activation="note44"/>
+	<Attributes name="Ending: Slide Down" color="FF8D56FF" id="45" pitch="45" activation="note45"/>
+	<Attributes name="Ending: Mute Strings" color="FF5C00FF" id="46" pitch="46" activation="note46"/>
+	<Attributes name="Slide down" color="FFFFBE0D" id="47" pitch="47" activation="note47"/>
+</Music.KeySwitchList>

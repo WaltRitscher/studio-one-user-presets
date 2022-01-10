@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Flute" target.class="5653544E694B4B6B6F6D706C65746520">
+	<Attributes name="Sustain Vibrato All" color="FF0D0DFF" id="0" pitch="36" activation="note24"/>
+	<Attributes name="Staccato" color="FFA5FF66" id="1" pitch="37" activation="note25"/>
+	<Attributes name="Crescendo" color="FFE9C400" id="2" pitch="38" activation="note26"/>
+	<Attributes name="Decrescendo" color="FFAD6415" id="3" pitch="39" activation="note27"/>
+</Music.KeySwitchList>

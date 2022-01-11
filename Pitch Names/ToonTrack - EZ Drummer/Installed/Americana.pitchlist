@@ -7,7 +7,9 @@
 
     Note: Studio One (and Yamaha/Steinberg) designates C3 for Middle C (Midi note 60)       
           while other DAWS and MIDI hardware designate C3 for Middle C.  
-          https://www.reddit.com/r/StudioOne/comments/m0seeq/change_middle_c_in_the_piano_roll_to_c4/                     
+          https://www.reddit.com/r/StudioOne/comments/m0seeq/change_middle_c_in_the_piano_roll_to_c4/    
+
+		  [a] = alias (an alternate key that plays the same sample)                 
  -->
 
 
@@ -65,9 +67,21 @@
 	<Music.PitchName pitch="75" name="Floortom - Rimshot" color="FF2FB1FF" scorePitch="67"/>
 	<Music.PitchName pitch="48" name="Racktom - Center" color="FF2FB1FF" scorePitch="77"/>
 	<Music.PitchName pitch="79" name="Racktom - Rim Only" color="FF2FB1FF" scorePitch="76"/>
+	  <Music.PitchName pitch='77'
+                   name='Racktom - Rim Only [a]'
+                   color='FF2FB1FF'
+                   scorePitch='76'
+                   flags='hide' />					   
+
+  
 	<Music.PitchName pitch="80" name="Racktom - Rimshot" color="FF2FB1FF" scorePitch="74"/>
+	<Music.PitchName pitch='78'
+                   name='Racktom - Rimshot [a]'
+                   color='FF2FB1FF'
+                   scorePitch='74'
+                   flags='hide' />	
 	<Music.PitchName pitch="54" name="Perc - Hit" color="FFD06EBC" scorePitch="93"/>
-	<Music.PitchName pitch="1" name="Claps" color="FFD06EBC" scorePitch="93"/>
+	<Music.PitchName pitch="1" name="Clapsx" color="FFD06EBC" scorePitch="93"/>
 	<Music.PitchName pitch="2" name="Shaker" color="FFD06EBC" scorePitch="93"/>
 	<Music.PitchName pitch="3" name="Tamborine" color="FFD06EBC" scorePitch="93"/>
 </Music.PitchNameList>

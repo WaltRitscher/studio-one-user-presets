@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBCSO (Discovery) Tuned Percussion">
+	<Attributes pitch="0" name="Tubular Bells"/>
+	<Attributes pitch="1" name="Marimba"/>
+	<Attributes pitch="2" name="Xylophone"/>
+	<Attributes pitch="3" name="Glockenspiel"/>
+</Music.KeySwitchList>

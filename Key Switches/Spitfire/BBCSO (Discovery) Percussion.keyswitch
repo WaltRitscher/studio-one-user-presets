@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBCSO (Discovery) Percussion">
+	<Attributes pitch="0" name="Timpani Hits"/>
+	<Attributes pitch="1" name="Untuned Percussion"/>
+</Music.KeySwitchList>

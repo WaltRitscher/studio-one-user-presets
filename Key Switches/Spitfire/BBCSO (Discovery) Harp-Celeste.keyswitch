@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="BBCSO (Discovery) Harp-Celeste">
+	<Attributes pitch="0" name="Harp Plucks"/>
+	<Attributes pitch="1" name="Celeste"/>
+</Music.KeySwitchList>

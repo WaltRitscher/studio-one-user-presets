@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Music.KeySwitchList name="Spitfire Studio Strings" target.class="￹565354767365707669656E6E6120656E">
+	<Attributes name="Legato" color="FFDD6105" id="0" pitch="0" activation="note0"/>
+	<Attributes name="Long" color="FFD89D00" id="1" pitch="1" activation="note1"/>
+	<Attributes name="Long Con Sordino" color="FFE9C400" id="2" pitch="2" activation="note2"/>
+	<Attributes name="Flautando" color="FFFFFF05" id="3" pitch="3" activation="note3"/>
+	<Attributes name="Tremolo" color="FFCDE700" id="4" pitch="4" activation="note4"/>
+	<Attributes name="Spiccato" color="FFA5FF66" id="5" pitch="5" activation="note5"/>
+	<Attributes name="Pizzicato" color="FF96FFA6" id="6" pitch="6" activation="note6"/>
+	<Attributes x:id="score">
+		<Attributes symbol="stac" variationID="5" useGenerator="1"/>
+		<Attributes symbol="slur" variationID="0"/>
+		<Attributes symbol="trm3" variationID="4" useGenerator="0"/>
+		<Attributes symbol="circ" variationID="3"/>
+		<Attributes symbol="pizz" variationID="6"/>
+		<Attributes symbol="sord" variationID="2"/>
+	</Attributes>
+</Music.KeySwitchList>

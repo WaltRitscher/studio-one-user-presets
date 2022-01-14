@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- PreSonus Studio One 
+    * Pitchname file                                                     
+    * preset : EZDrummer EDX Funkmasters                                                                    
+    * author : walt ritscher                              
+    * artist : hummingstone  
+
+    Note: Studio One (and Yamaha/Steinberg) designates C3 for Middle C (Midi note 60)       
+          while other DAWS and MIDI hardware designate C3 for Middle C.  
+          https://www.reddit.com/r/StudioOne/comments/m0seeq/change_middle_c_in_the_piano_roll_to_c4/    
+
+		  * = alias (an alternate key that plays the same sample)                 
+ -->
+<Music.PitchNameList title="Funkmasters">
+  <Music.PitchName pitch="1" name="Perc - Claps" color="FFD06EBC" scorePitch="93" />
+  <Music.PitchName pitch="2" name="Perc - Shaker" color="FFD06EBC" scorePitch="93" />
+  <Music.PitchName pitch="3" name="Perc - Tamborine" color="FFD06EBC" scorePitch="93" />
+  <Music.PitchName pitch="20" name="HH - CC Variable" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="21" name="HH - Closed Pedal" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="22" name="HH - Closed Edge" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="23" name="HH - Open Pedal" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="24" name="HH - Open 1" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="25" name="HH - Open 2" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="26" name="HH - Open 3" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="27" name="Crash Ride - Crashed*" color="FF04A104" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="28" name="Crash Ride - Crashed*" color="FF04A104" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="29" name="Crash Ride - Crashed*" color="FF04A104" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="30" name="Ride - Crashed*" color="FF04E2BE" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="31" name="Ride - Crashed*" color="FF04E2BE" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="32" name="Ride - Crashed*" color="FF04E2BE" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="33" name="Snare - Center*" color="FF00E0FB" scorePitch="72" />
+  <Music.PitchName pitch="34" name="Kick - Hit*" color="FF0D0DFF" scorePitch="65" />
+  <Music.PitchName pitch="35" name="Kick - Open" color="FF0D0DFF" scorePitch="65" />
+  <Music.PitchName pitch="36" name="Kick - Hit" color="FF0D0DFF" scorePitch="65" />
+  <Music.PitchName pitch="37" name="Snare - Side Stick" color="FF00E0FB" scorePitch="72" notehead="nhdX" />
+  <Music.PitchName pitch="38" name="Snare - Center" color="FF00E0FB" scorePitch="72" />
+  <Music.PitchName pitch="39" name="Snare - Rimshot*" color="FF00E0FB" scorePitch="72" />
+  <Music.PitchName pitch="40" name="Snare - Rimshot" color="FF00E0FB" scorePitch="72" notehead="nhSl" />
+  <Music.PitchName pitch="41" name="Tom [Floor] - Center Alt*" color="FF2FB1FF" scorePitch="69" />
+  <Music.PitchName pitch="42" name="HH{GM} - Closed" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="43" name="Tom [Floor] - Center" color="FF2FB1FF" scorePitch="69" />
+  <Music.PitchName pitch="44" name="HH{GM} - Pedal" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="45" name="Tom 2 [Rack] - Center*" color="FF2FB1FF" scorePitch="76" />
+  <Music.PitchName pitch="46" name="HH{GM} - Open" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="47" name="Tom 2 [Rack] - Center*" color="FF2FB1FF" scorePitch="76" />
+  <Music.PitchName pitch="48" name="Tom 1 [Rack] - Center" color="FF2FB1FF" scorePitch="76" />
+  <Music.PitchName pitch="49" name="Crash Ride - Crashed" color="FF04A104" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="50" name="Crash Ride - Muted" color="FF04A104" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="51" name="Ride - Bow" color="FF04E2BE" scorePitch="77" notehead="nhdX" />
+  <Music.PitchName pitch="52" name="Ride - Edge" color="FF04E2BE" scorePitch="77" notehead="nhdX" />
+  <Music.PitchName pitch="53" name="Ride - Bell" color="FF04E2BE" scorePitch="77" notehead="nhDi" />
+  <Music.PitchName pitch="54" name="Crash Ride - Mute" color="FF04A104" scorePitch="93" />
+  <Music.PitchName pitch="55" name="Crash Ride - Edge*" color="FF04A104" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="56" name="Perc - Woodblock" color="FFD06EBC" scorePitch="79" notehead="nhDi" />
+  <Music.PitchName pitch="57" name="Ride - Edge*" color="FF04E2BE" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="58" name="Ride - Muted" color="FF04E2BE" scorePitch="81" notehead="nhdX" />
+  <Music.PitchName pitch="59" name="Ride - Edge" color="FF04E2BE" scorePitch="77" notehead="nhdX" />
+  <Music.PitchName pitch="60" name="HH - Open 4" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="61" name="HH - Closed Tip" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="62" name="HH - Tight Edge" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="63" name="HH - Tight Tip" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="64" name="HH - Seq Hits*" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="65" name="HH - Seq Hits" color="FFFFFF05" scorePitch="79" notehead="nhdX" />
+  <Music.PitchName pitch="68" name="Snare - SideStick*" color="FF00E0FB" scorePitch="72" />
+  <Music.PitchName pitch="69" name="Snare - Center*" color="FF00E0FB" scorePitch="72" />
+  <Music.PitchName pitch="70" name="Snare - Center*" color="FF00E0FB" scorePitch="72" notehead="nhdX" />
+  <Music.PitchName pitch="71" name="Snare - Rim Only" color="FF00E0FB" scorePitch="72" notehead="nhdX" />
+  <Music.PitchName pitch="72" name="Tom [Floor] - Rim Only*" color="FF2FB1FF" scorePitch="69" />
+  <Music.PitchName pitch="73" name="Tom [Floor] - Rimshot*" color="FF2FB1FF" scorePitch="69" />
+  <Music.PitchName pitch="74" name="Tom [Floor] - Rim Only" color="FF2FB1FF" scorePitch="69" />
+  <Music.PitchName pitch="75" name="Tom [Floor] - Rimshot" color="FF2FB1FF" scorePitch="69" />
+  <Music.PitchName pitch="76" name="Perc - Woodblock Stick" color="FFD06EBC" scorePitch="93" />
+  <Music.PitchName pitch="77" name="Tom 2 [Rack] - Rim Only*" color="FF2FB1FF" scorePitch="76" />
+  <Music.PitchName pitch="78" name="Tom 2 [Rack] - Rimshot*" color="FF2FB1FF" scorePitch="74" />
+  <Music.PitchName pitch="79" name="Tom 2 [Rack] - Rim Only" color="FF2FB1FF" scorePitch="76" />
+  <Music.PitchName pitch="80" name="Tom 2 [Rack] - Rimshot" color="FF2FB1FF" scorePitch="74" />
+  <Music.PitchName pitch="81" name="Tom 1 [Rack] - Rim Only" color="FF2FB1FF" scorePitch="74" />
+  <Music.PitchName pitch="82" name="Tom 1 [Rack] - Rimshot" color="FF2FB1FF" scorePitch="76" />
+  <Music.PitchName pitch="83" name="Crash Ride - Mute*" color="FF04A104" scorePitch="93" />
+  <Music.PitchName pitch="84" name="Crash Ride = Bow" color="FF04A104" scorePitch="81" />
+  <Music.PitchName pitch="85" name="Crash Ride = Bell" color="FF04A104" scorePitch="81" />
+  <Music.PitchName pitch="116" name="Ride - Bow*" color="FF04E2BE" scorePitch="77" notehead="nhdX" />
+  <Music.PitchName pitch="117" name="Ride - Bell Tip" color="FF04E2BE" scorePitch="77" notehead="nhDi" />
+  <Music.PitchName pitch="118" name="Ride - Muted" color="FF04E2BE" scorePitch="77" notehead="nhdX" />
+  <Music.PitchName pitch="119" name="HH - Closed Bell" color="FFFFFF05" scorePitch="79" notehead="nhDi" />
+  <Music.PitchName pitch="120" name="HH - Open Bell 1" color="FFFFFF05" scorePitch="79" notehead="nhDi" />
+  <Music.PitchName pitch="121" name="HH - Open Bell 2" color="FFFFFF05" scorePitch="79" notehead="nhDi" />
+</Music.PitchNameList>

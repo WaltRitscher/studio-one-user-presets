@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- PreSonus Studio One 
     * Pitchname file                                                     
-    * preset : EZDrummer EDX Americana                                                                    
+    * preset : EZDrummer EDX Reggae                                                                    
     * author : walt ritscher                              
     * artist : hummingstone  
 
@@ -11,7 +11,7 @@
 
 		  * = alias (an alternate key that plays the same sample)                 
  -->
-<Music.PitchNameList title="Americana">
+<Music.PitchNameList title="Reggae">
   <Music.PitchName pitch="36" name="Kick - Hit" color="FF0D0DFF" scorePitch="65" />
   <Music.PitchName pitch="34" name="Kick - Hit*" color="FF0D0DFF" scorePitch="65" />
   <Music.PitchName pitch="35" name="Kick - Hit*" color="FF0D0DFF" scorePitch="65" />

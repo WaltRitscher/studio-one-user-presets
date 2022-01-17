@@ -11,6 +11,7 @@
 	<Music.PitchName pitch="48" color="FF04FFE1"/>
 	<Music.PitchName pitch="49" color="FF8D56FF"/>
 	<Music.PitchName pitch="50" color="FF5C00FF"/>
+	
 	<Music.PitchName pitch="52" color="FFFFBE0D"/>
 	<Music.PitchName pitch="53" color="FFFFAC0D"/>
 	<Music.PitchName pitch="54" color="FFFF6D0A"/>
@@ -22,6 +23,7 @@
 	<Music.PitchName pitch="60" color="FFC746CC"/>
 	<Music.PitchName pitch="61" color="FF6B2EE6"/>
 	<Music.PitchName pitch="62" color="FF0D0DFF"/>
+	
 	<Music.PitchName pitch="64" color="FFAD6415"/>
 	<Music.PitchName pitch="65" color="FF926B0F"/>
 	<Music.PitchName pitch="66" color="FFC6B500"/>
@@ -33,6 +35,7 @@
 	<Music.PitchName pitch="72" color="FF00E0FB"/>
 	<Music.PitchName pitch="73" color="FF2FB1FF"/>
 	<Music.PitchName pitch="74" color="FF3057FF"/>
+	
 	<Music.PitchName pitch="76" color="FF63503A"/>
 	<Music.PitchName pitch="77" color="FFD1A587"/>
 	<Music.PitchName pitch="78" color="FFD1CC87"/>
@@ -44,6 +47,7 @@
 	<Music.PitchName pitch="84" color="FF8C89CE"/>
 	<Music.PitchName pitch="85" color="FFD06EBC"/>
 	<Music.PitchName pitch="86" color="FF4848D2"/>
+
 	<Music.PitchName pitch="88" color="FF5A4528"/>
 	<Music.PitchName pitch="89" color="FF815D35"/>
 	<Music.PitchName pitch="90" color="FF8E673B"/>
@@ -55,9 +59,10 @@
 	<Music.PitchName pitch="96" color="FF6062D9"/>
 	<Music.PitchName pitch="97" color="FF775DD4"/>
 	<Music.PitchName pitch="98" color="FF473FFF"/>
+
 	<Music.PitchName pitch="100" color="FF8B490F"/>
 	<Music.PitchName pitch="101" color="FF84670D"/>
-	<Music.PitchName pitch="102" color="FF6F8804"/>
+	<Music.PitchName pitch="102" color="FF8B840F"/>
 	<Music.PitchName pitch="103" color="FF6F8804"/>
 	<Music.PitchName pitch="104" color="FF5C8612"/>
 	<Music.PitchName pitch="105" color="FF4E7E6F"/>
@@ -66,6 +71,7 @@
 	<Music.PitchName pitch="108" color="FF7C6B94"/>
 	<Music.PitchName pitch="109" color="FF854193"/>
 	<Music.PitchName pitch="110" color="FF232393"/>
+	
 	<Music.PitchName pitch="112" color="FFE96200"/>
 	<Music.PitchName pitch="113" color="FFCF7208"/>
 	<Music.PitchName pitch="114" color="FFA3913B"/>
@@ -88,8 +94,7 @@
 	<Music.PitchName pitch="23" color="FF6E04B3"/>
 	<Music.PitchName pitch="24" color="FF0423C7"/>
 	<Music.PitchName pitch="25" color="FFE6E6E6"/>
-	<Music.PitchName pitch="26" flags="show"/>
-	<Music.PitchName pitch="28" flags="show" color="FF00CC99"/>
-	<Music.PitchName pitch="29" flags="show" color="FF04C97A"/>
+	<!-- <Music.PitchName pitch="26" flags="show"/> -->
+
 
 </Music.PitchNameList>
